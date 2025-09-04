@@ -1,0 +1,246 @@
+{ "name": "#INWIPTV#",
+"author": "โหน่ง ไอที",
+"image": "https://www.inwiptv.asia/images/fwiptv/fwiptv.png",
+"url": "",
+"stations": [
+
+{ "name": "Fwmov",
+"image": "https://www.fileinw.com/postor/20240429213309FWMOV.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=95262",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "Fwsov",
+"image": "https://www.fileinw.com/postor/20240429213326FWSOV.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=94898",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "Fwtoon",
+"image": "https://www.fileinw.com/postor/20240429213651FWTOON.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=92941",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "FWDoc",
+"image": "https://www.fileinw.com/postor/20240617204638FWDoc.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=91303",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "FWsport",
+"image": "https://www.fileinw.com/postor/20240429213640FWsport.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=89782",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "Gags",
+"image": "https://www.fileinw.com/postor/20240429213343just_for_laughs_gags.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=89781",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "NHK",
+"image": "https://www.fileinw.com/postor/20240421225150NHK.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=40910",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "Bloomberg",
+"image": "https://www.fileinw.com/postor/20240421225204Bloomberg.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=40892",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "RT",
+"image": "https://www.fileinw.com/postor/20240421225216RT.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=40889",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "CGTN",
+"image": "https://www.fileinw.com/postor/20240421225237CGTN.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=40886",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "Love Nature",
+"image": "https://www.fileinw.com/postor/20250406142850Channel.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=40883",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "BBC NEWS",
+"image": "https://www.fileinw.com/postor/20250409093426BBCNEWS.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=40880",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "Farm station",
+"image": "https://www.fileinw.com/postor/20250819112058%E0%B8%A5%E0%B8%9A%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%97%E0%B8%B3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C.png",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27315",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "ถิ่นใต้",
+"image": "https://www.fileinw.com/postor/20240421225339%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27312",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "5HD",
+"image": "https://www.fileinw.com/postor/20240421225425ch5hd.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27190",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "NBT",
+"image": "https://www.fileinw.com/postor/20240421225446nbthd.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27189",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "Thai PBS",
+"image": "https://www.fileinw.com/postor/20240421225507tpbshd.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27188",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "Tsports7",
+"image": "https://www.fileinw.com/postor/20240421225520tsports7.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27186",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "TPTV",
+"image": "https://www.fileinw.com/postor/20240421225533tptv.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27184",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "TNN16",
+"image": "https://www.fileinw.com/postor/20240421225609TNN16.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27179",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "JKN18",
+"image": "https://www.fileinw.com/postor/20240421225631JKN18.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27165",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "Nation",
+"image": "https://www.fileinw.com/postor/20240421225642Nation1.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27162",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "Workpoint",
+"image": "https://www.fileinw.com/postor/20240421225700Workpoint.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27159",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "True4u",
+"image": "https://www.fileinw.com/postor/20240421225712True4u.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27156",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "Gmm 25",
+"image": "https://www.fileinw.com/postor/20240421225727gmmchannel.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27153",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "CH8",
+"image": "https://www.fileinw.com/postor/20240421225748ch8.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27147",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "Mono29",
+"image": "https://www.fileinw.com/postor/20240421225827mono29.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27144",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "Mcot",
+"image": "https://www.fileinw.com/postor/20240421225856mcothd.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27141",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "One",
+"image": "https://www.fileinw.com/postor/20240421225844onehd.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27140",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "Thairath",
+"image": "https://www.fileinw.com/postor/20240421225909thairahttvhd.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27138",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "3HD",
+"image": "https://www.fileinw.com/postor/20240421225924ch3hd.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27137",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "Amarintv",
+"image": "https://www.fileinw.com/postor/20240421225938amarintvhd.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27135",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "7HD",
+"image": "https://www.fileinw.com/postor/20240421225954ch7hd.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27132",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+{ "name": "PPTV",
+"image": "https://www.fileinw.com/postor/20240421230006pptvhd.jpg",
+"url": "https://www.inwiptv.asia/player_demo.php?channel=27129",
+"referer": "https://www.inwiptv.asia/",
+"userAgent": ""
+},
+
+
+},]}
