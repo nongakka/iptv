@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 ########################################
@@ -36,16 +35,16 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
 
 #EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/NBTCentral_2025.png",NBT ภาคกลาง
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8	
 
 #EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/NBTNorth_2025.png",NBT ภาคเหนือ
-http://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1/playlist.m3u8
+https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/NBTNortheast_2025.png",NBT ภาคอีสาน
-http://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d/playlist.m3u8
-
+https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8
+	
 #EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/NBTSouth_2025.png",NBT ภาคใต้
-http://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048/playlist.m3u8
+https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/TNN16.png",TNN16
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -57,7 +56,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
 #KODIPROP:inputstream.adaptive.license_key=333de6034a1d45fe91c829539caf1149:2710efc048ca44bba4c2b57397989a26
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/18/18.mpd
 
-#EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://i.imgur.com/h3TY38F.png",Nation TV
+#EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nation_TV_Logo.svg/500px-Nation_TV_Logo.svg.png",Nation TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
@@ -140,9 +139,12 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/zeenung.png", Zee Nung
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 
-#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://i.postimg.cc/GtRYFgq8/IMG-2429.png", Chiangrai Channel 
-http://live.thaitvstream.com/play/chiangrai/index.m3u8	
+#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8
 
+#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png",Cable Channel 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+		
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",Channel 8 THAILAND
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 
@@ -158,18 +160,15 @@ https://lb1-live-mv.v2h-cdn.com/live_vod/siam.m3u8
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/sakara.png",สกาล่า Channel
 https://lb1-live-mv.v2h-cdn.com/live_vod/scala.m3u8
 
-#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",Rama Channel
-https://ramach.ddns.net/live/ramalive/index.m3u8
-
-#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png",Cable Channel 37
-http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/mvlao.png",MV LAO TV
 https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
 
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/mvthai.png",MVTV ท้องถิ่นไทย
 https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8	
 
+#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://i.postimg.cc/GtRYFgq8/IMG-2429.png", Chiangrai Channel 
+http://live.thaitvstream.com/play/chiangrai/index.m3u8	
+		
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Siamnews.png",Siamnews
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 
@@ -179,8 +178,10 @@ https://live.thaitvstream.com/play/thainews/index.m3u8
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/TVMass.png",มวลชนทีวี
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 
+#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/baanbaantv.png", บ้านบ้านทีวี
+https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
+		
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/universal.png",Universal
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/H-Channel
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="ช่องบันเทิง",trueASIANMORE
@@ -201,37 +202,34 @@ https://e102.hellotherepadawan.org/v5/0RIQnq5Htx2zn0NTWELuXA/1756836224/92e6f341
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueSeries
 https://e109.hellotherepadawan.org/v5/BIMWq3YkONcTBqXnUiXmXw/1756836429/92e6f341c728a6e9b2f28b85333fae8d/gpzy0LattedyHmCQz7uNFg/1756847109/live/dx-origin/sd-series_720/chunks.m3u8
 
-#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/baanbaantv.png", บ้านบ้านทีวี
-https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
-
-#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://i.postimg.cc/YC80kygb/IMG-2687.png", ไทบ้านทีวี
-https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
-
-#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://i.postimg.cc/v8z5TKKC/IMG-2593.png", อีสานทีวี
-https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
-	
-#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://i.postimg.cc/MGHM4rTj/IMG-2560.png", ลั่นทุ่งทีวี
-https://live-us1.thaimomo.com/live-as/chlantung-2/chunklist_w1965870389.m3u8	
-	
 ########################################
 ช่องดนตรี
 ########################################	
 
+#EXTINF:-1 group-title="ช่องดนตรี" tvg-logo="https://i.postimg.cc/YC80kygb/IMG-2687.png", ไทบ้านทีวี
+https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
+
+#EXTINF:-1 group-title="ช่องดนตรี" tvg-logo="https://i.postimg.cc/v8z5TKKC/IMG-2593.png", อีสานทีวี
+https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
+	
+#EXTINF:-1 group-title="ช่องดนตรี" tvg-logo="https://i.postimg.cc/MGHM4rTj/IMG-2560.png", ลั่นทุ่งทีวี
+https://live-us1.thaimomo.com/live-as/chlantung-2/chunklist_w1965870389.m3u8
+
+#EXTINF:-1 group-title="ช่องดนตรี" tvg-logo="https://i.postimg.cc/RCHf48T7/IMG-2558.png", ลูกทุ่งทีวี
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8	
+		
 #EXTINF:-1 group-title="ช่องดนตรี" tvg-logo="https://thaichaiyo.tv/wp-content/uploads/2022/11/cropped-Logo-TCY.png",ไทไชโย
 https://live.thaichaiyo.tv/tcy/live-manifest.m3u8
 
 #EXTINF:-1 group-title="ช่องดนตรี" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/OhMuangLao.png",Oh Muang Lao TV
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="ช่องดนตรี" tvg-logo="https://i.postimg.cc/RCHf48T7/IMG-2558.png", ลูกทุ่งทีวี
-https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8	
-
 ########################################
 ช่องข่าว
 ########################################
 
 #EXTINF:-1 group-title="ช่องข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/TopNews.png",Top News
-https://live.topnews.co.th/hls/topnews_a_720.m3u8
+https://live.topnews.co.th/hls/mobile_v1.m3u8
 
 #EXTINF:-1 group-title="ช่องข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/dopa.png",Dopa Channel
 http://dopachannel.truegse.com/live/dopatv03.m3u8
@@ -273,16 +271,17 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 #EXTINF:-1 group-title="ช่องรายการเด็ก" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/BoomThailand2025.png",Boomerang
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
+#EXTINF:-1 group-title="ช่องรายการเด็ก" tvg-logo="tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png",Dreamworks
+#https://e113.hellotherepadawan.org/v5/MdUBUZcSiOvjhmP7HUZdew/1757400519/92e6f341c728a6e9b2f28b85333fae8d/4mqwruxtF6Z8vv74QlvoOA/1757411199/live/vx-origin/hd-dreamworks_720/chunks.m3u8
+
 ########################################
 ช่องนานาสาระ
 ########################################
 
 #EXTINF:-1 group-title="ช่องนานาสาระ" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/world_animal.png",Animal
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://49.0.64.96:8007/Animal
 
 #EXTINF:-1 group-title="ช่องนานาสาระ" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/world_science.png",Science
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/WSCI
 	
 #EXTINF:-1 group-title="ช่องนานาสาระ" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp",trueEXPLOREWILD
@@ -296,86 +295,6 @@ https://e103.hellotherepadawan.org/v5/FNQQslinifE9-SEeGuQiSA/1756836536/92e6f341
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/KOGOCUNG/plugin/raw/refs/heads/main/live30.m3u8	
-
-########################################
-ช่องคุณธรรม
-########################################
-
-#EXTINF:-1 group-title="ช่องคุณธรรม" tvg-logo="https://cubiktv.com/upload/images/tv-muslim-thailand.png",TV Muslim
-https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
-
-#EXTINF:-1 group-title="ช่องคุณธรรม" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/YATEEMTV.png",YATEEM TV
-https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
-
-#EXTINF:-1 group-title="ช่องคุณธรรม" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/WhiteChannel.png",White Channel
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-
-#EXTINF:-1 group-title="ช่องคุณธรรม" tvg-logo="https://i.imgur.com/KvdFCD5.png",บุญนิยมทีวี
-http://live.boonniyom.tv/live/bntvhd.m3u8
-
-#EXTINF:-1 group-title="ช่องคุณธรรม" tvg-logo="https://image.makewebeasy.net/makeweb/0/JIfKTrKkI/DefaultData/sbbtv_inter.png",SBB TV
-http://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/chunklist.m3u8
-
-#EXTINF:-1 group-title="ช่องคุณธรรม" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/logo-GBN-small1.png",GBN
-https://live1.gbnus.com/live/dhamma_high/playlist.m3u8
- 
-#EXTINF:-1 group-title="ช่องคุณธรรม" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Thattachivo.png",หลวงพ่อทัตตชีโว
-https://live.zoom072.com/ch6/ch6.m3u8
-
-########################################
-ช่องการศึกษา
-########################################
-
-#EXTINF:-1 group-title="ช่องการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV1.png",DLTV01
-https://cdn-live.dltv.ac.th/dltv01.m3u8
-
-#EXTINF:-1 group-title="ช่องการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV2.png",DLTV02
-https://cdn-live.dltv.ac.th/dltv02.m3u8
-
-#EXTINF:-1 group-title="ช่องการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV3.png",DLTV03
-https://cdn-live.dltv.ac.th/dltv03.m3u8
-
-#EXTINF:-1 group-title="ช่องการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV4.png",DLTV04
-https://cdn-live.dltv.ac.th/dltv04.m3u8
-
-#EXTINF:-1 group-title="ช่องการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV5.png",DLTV05
-https://cdn-live.dltv.ac.th/dltv05.m3u8
-
-#EXTINF:-1 group-title="ช่องการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV6.png",DLTV06
-https://cdn-live.dltv.ac.th/dltv06.m3u8
-
-#EXTINF:-1 group-title="ช่องการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV7.png",DLTV07
-https://cdn-live.dltv.ac.th/dltv07.m3u8
-
-#EXTINF:-1 group-title="ช่องการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV8.png",DLTV08
-https://cdn-live.dltv.ac.th/dltv08.m3u8
-
-#EXTINF:-1 group-title="ช่องการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV9.png",DLTV09
-https://cdn-live.dltv.ac.th/dltv09.m3u8
-
-#EXTINF:-1 group-title="ช่องการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV10.png",DLTV10
-https://cdn-live.dltv.ac.th/dltv10.m3u8
-
-#EXTINF:-1 group-title="ช่องการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV11.png",DLTV11
-https://cdn-live.dltv.ac.th/dltv11.m3u8
-
-#EXTINF:-1 group-title="ช่องการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV12.png",DLTV12
-https://cdn-live.dltv.ac.th/dltv12.m3u8
-
-#EXTINF:-1 group-title="ช่องการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV13.png",DLTV13
-https://cdn-live.dltv.ac.th/dltv13.m3u8
-
-#EXTINF:-1 group-title="ช่องการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV14.png",DLTV14
-https://cdn-live.dltv.ac.th/dltv14.m3u8
-
-#EXTINF:-1 group-title="ช่องการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV15.png",DLTV15
-https://cdn-live.dltv.ac.th/dltv15.m3u8
-
-#EXTINF:-1 group-title="ช่องการศึกษา" tvg-logo="http://www.etvthai.tv/images_new/logo.png",ETV
-http://150.95.66.20:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="ช่องการศึกษา" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/STOU.png",STOU Channel
-https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 
 ########################################
 ช่องกีฬาทั่วไป
@@ -440,9 +359,7 @@ https://e113.hellotherepadawan.org/v5/YVfVXqhgrEaa9qoqh77w4w/1756850942/92e6f341
 https://e111.hellotherepadawan.org/v5/UG1IBie2LmDYFsEuF26Hnw/1756851665/92e6f341c728a6e9b2f28b85333fae8d/_XlU5LcNXJXVEL1bbW1U9Q/1756862345/live/vx-origin/hd-golf2_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
-#https://githu#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-#https://github.com/KOGOCUNG/plugin/raw/refs/heads/main/live11.m3u8	b.com/KOGOCUNG/plugin/raw/refs/heads/main/live90.m3u8
+#https://github.com/KOGOCUNG/plugin/raw/refs/heads/main/live11.m3u8
 
 #EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png",TRUE SPORT 01
 https://e107.hellotherepadawan.org/v5/_-Q0ElSRL9mLMUNZbr91nA/1756851491/5e9177e0495abf481b997bb1e510e390/m3LrlRLxT6swQ07gvHcCQg/1756862171/live/vx-origin/hd-tsport1_720/chunks.m3u8
@@ -460,7 +377,8 @@ https://e107.hellotherepadawan.org/v5/onH_3yfZudgbFLlugElqWQ/1756852056/92e6f341
 #https://github.com/KOGOCUNG/plugin/raw/refs/heads/main/live65.m3u8
 
 #EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",TRUE SPORT 03	
-https://a2.hellotherepadawan.org:9305/v5/FUDKMcbS66xRg37qeoRTqg/1756706904/0c97fa64d36e19348bb46d25cd9d737e/hIhTepEfkFe3mLaTF5MBgQ/1756717584/live/vx-origin/dooball66-tsporthd3x_720/chunks.m3u8	
+https://e111.hellotherepadawan.org/v5/vQgFfz1N7DkuMTq1viJLMA/1757145737/8549d872141eb2f1e0d2405e4f26857a/SvtafJQtR8PNReM9dr9zvQ/1757156417/live/vx-origin/th-tsporthd3_720/playlist.m3u8
+#https://a2.hellotherepadawan.org:9305/v5/FUDKMcbS66xRg37qeoRTqg/1756706904/0c97fa64d36e19348bb46d25cd9d737e/hIhTepEfkFe3mLaTF5MBgQ/1756717584/live/vx-origin/dooball66-tsporthd3x_720/chunks.m3u8	
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 #https://github.com/KOGOCUNG/plugin/raw/refs/heads/main/live69.m3u8	
@@ -504,6 +422,7 @@ https://e111.hellotherepadawan.org/v5/SGkKWgEEhdbwgyHKBmIUlw/1756863731/8384ace1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 #https://github.com/KOGOCUNG/plugin/raw/refs/heads/main/live20.m3u8	
+#https://e111.hellotherepadawan.org/v5/vQgFfz1N7DkuMTq1viJLMA/1757145737/8549d872141eb2f1e0d2405e4f26857a/SvtafJQtR8PNReM9dr9zvQ/1757156417/live/vx-origin/th-tsporthd3_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/spotv.png" group-title="ช่องกีฬาทั่วไป",Spotv01
 #EXTVLCOPT:http-referrer=https://dookeela.live/
@@ -518,13 +437,14 @@ https://e114.hellotherepadawan.org/v5/wRz4S1gAL9St0zjkp7rZgg/1756823774/0c97fa64
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/hd-tennis.png" group-title="ช่องกีฬาทั่วไป",TrueTennis
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e111.hellotherepadawan.org/v5/oAZlvD2rwGV_CLQlutFXgA/1756823881/0c97fa64d36e19348bb46d25cd9d737e/h9SUHRmb8YGfus4V1PEXFw/1756834561/live/dx-origin/hd-tennis_720/chunks.m3u8
+#https://e111.hellotherepadawan.org/v5/oAZlvD2rwGV_CLQlutFXgA/1756823881/0c97fa64d36e19348bb46d25cd9d737e/h9SUHRmb8YGfus4V1PEXFw/1756834561/live/dx-origin/hd-tennis_720/chunks.m3u8
+https://s9a-c.hellotherepadawan.org:9312/v5/5by_c_5xq4_8z0Bxzr7uaA/1757144535/8549d872141eb2f1e0d2405e4f26857a/aqvdGmQQPeU5kNWh_7MiEQ/1757155215/live/dx-origin/hd-tennis_720/playlist.m3u8
 	
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/hd-golf2.png" group-title="ช่องกีฬาทั่วไป",TrueGolf
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e110.hellotherepadawan.org/v5/xYXiri7ubr-NIV3o57Dozg/1756850871/92e6f341c728a6e9b2f28b85333fae8d/rtArT0W3q7wwO0RcUZkeVA/1756861551/live/dx-origin/hd-tennis_720/chunks.m3u8	
-
+https://e105.hellotherepadawan.org/v5/C4kmIi75jGLAJ3dvh8uGaQ/1757145521/8549d872141eb2f1e0d2405e4f26857a/ymq4ARVYOcAEu0gE3vpxcw/1757156201/live/vx-origin/hd-golf2_720/playlist.m3u8
+	
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="ช่องกีฬาทั่วไป",Bein01
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -538,7 +458,8 @@ https://e103.hellotherepadawan.org/v5/7NcKnj_DK5Sf9zWk0Uyqtw/1756822684/0c97fa64
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="ช่องกีฬาทั่วไป",Bein03
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://la3.hellotherepadawan.org:9306/v5/RdlHvgv8v3TGQCJvx7W8wg/1756822845/0c97fa64d36e19348bb46d25cd9d737e/0BX6R6hyoedbRmf4RatR1A/1756833525/live/dx-origin/dooball66-bein3x_720/chunks.m3u8
+#https://la3.hellotherepadawan.org:9306/v5/RdlHvgv8v3TGQCJvx7W8wg/1756822845/0c97fa64d36e19348bb46d25cd9d737e/0BX6R6hyoedbRmf4RatR1A/1756833525/live/dx-origin/dooball66-bein3x_720/chunks.m3u8
+https://e107.hellotherepadawan.org/v5/VsdMLiRKE28_HB3ISlI1YA/1757226225/f64d0f2cf4c4f5f40364d71ecd080b39/kKQpnsheW66mKByVExBC8A/1757236905/live/vx-origin/epl-bein3_720/chunks.m3u8
 	
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png" group-title="ช่องกีฬาทั่วไป",Tsport01
 #EXTVLCOPT:http-referrer=https://dookeela.live/
@@ -603,7 +524,8 @@ https://e112.hellotherepadawan.org/v5/l-pVAJlxBJ9N9Jitien3qQ/1756822749/eb79b229
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="ช่องกีฬาทั่วไป",Bein-03
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://s8x.hellotherepadawan.org:9313/v5/zDuwQKRoseJxO0sHRhx7SQ/1756822910/eb79b2290aed13cdd693ebbf408b324d/jBFPIbnJqAG7zJaLfMDxJQ/1756833590/live/vx-origin/th-bein3_720/chunks.m3u8
+#https://s8x.hellotherepadawan.org:9313/v5/zDuwQKRoseJxO0sHRhx7SQ/1756822910/eb79b2290aed13cdd693ebbf408b324d/jBFPIbnJqAG7zJaLfMDxJQ/1756833590/live/vx-origin/th-bein3_720/chunks.m3u8
+https://la4.hellotherepadawan.org:9314/v5/Fw1tl0l_iKp2oKzrDC7hVg/1757147786/f03976175fac6c7be1fc37559cf29398/Tcgx506Ox_Z-sAEGivGK5Q/1757158466/live/vx-origin/th-bein3_720/playlist.m3u8
 	
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png" group-title="ช่องกีฬาทั่วไป",Tsport-01
 #EXTVLCOPT:http-referrer=https://dookeela.live/
@@ -636,230 +558,180 @@ https://e109.hellotherepadawan.org/v5/WXrims3H6sA3asMFECiIFw/1756823504/eb79b229
 https://e112.hellotherepadawan.org/v5/j1fS6IvU-9S90Shg9mNHlw/1756823606/eb79b2290aed13cdd693ebbf408b324d/kVqWZlXdXnGWwXdkKA3p0g/1756834286/live/dx-origin/th-tsport7_720/chunks.m3u8
 		
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 01
+#EXTVLCOPT:http-referrer=https://dookeela.live/	
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://e106.hellotherepadawan.org/v5/AX1qNc_4-4YL9vcRMvVtGw/1756820756/0c97fa64d36e19348bb46d25cd9d737e/GY-NHBu_LuZx9PYjiYoQQA/1756831436/live/dx-origin/dooball66-max01_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 02
+#EXTVLCOPT:http-referrer=https://dookeela.live/	
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://e101.hellotherepadawan.org/v5/qh3QYCpGG1Kjc0guWhaMvg/1756821038/eb79b2290aed13cdd693ebbf408b324d/-rhb83XC_NFQLGWsqErQrg/1756831718/live/dx-origin/dooball66-max02_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 03
+#EXTVLCOPT:http-referrer=https://dookeela.live/	
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://e101.hellotherepadawan.org/v5/Js2e44T6PegsLUihDoKlYQ/1756821250/0c97fa64d36e19348bb46d25cd9d737e/JZVUBpHB-BkZ-9oXcTvszA/1756831930/live/dx-origin/dooball66-max03_720/chunks.m3u8
+#https://e101.hellotherepadawan.org/v5/Js2e44T6PegsLUihDoKlYQ/1756821250/0c97fa64d36e19348bb46d25cd9d737e/JZVUBpHB-BkZ-9oXcTvszA/1756831930/live/dx-origin/dooball66-max03_720/chunks.m3u8
+#https://e110.hellotherepadawan.org/v5/AO2b5gK8npE5qr08AJEJjg/1757226501/88f690d08a216778391c3547557b28fd/Yc6q5Du2k6WHd9dOtnDJaA/1757237181/live/dx-origin/dooball66-max03_720/chunks.m3u8
+https://e110.hellotherepadawan.org/v5/xbJqFwq0R8UrquMLEAqp9g/1757737288/8549d872141eb2f1e0d2405e4f26857a/sdy33p3jfYGYIu4YiXy2mw/1757747968/live/lx-origin/dooball66-max03c_720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 04
+#EXTVLCOPT:http-referrer=https://dookeela.live/	
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://e111.hellotherepadawan.org/v5/mLiE--ITPDQqefBU1slcRw/1756821476/eb79b2290aed13cdd693ebbf408b324d/ftUanxgTrc-XWH7Pz7WvdA/1756832156/live/dx-origin/dooball66-max04_720/chunks.m3u8
-
+#https://e111.hellotherepadawan.org/v5/mLiE--ITPDQqefBU1slcRw/1756821476/eb79b2290aed13cdd693ebbf408b324d/ftUanxgTrc-XWH7Pz7WvdA/1756832156/live/dx-origin/dooball66-max04_720/chunks.m3u8
+#https://e103.hellotherepadawan.org/v5/PQe9IA8ukJrhiUcv9gvb4Q/1757226747/f64d0f2cf4c4f5f40364d71ecd080b39/xni_4ecNrBffNNRt1rO5CQ/1757237427/live/lx-origin/th-monomax04bkp_720/chunks.m3u8
+#https://e108.hellotherepadawan.org/v5/syWG4VxrqfSRcLtLnCYy3Q/1757330179/88f690d08a216778391c3547557b28fd/HSup63PW4V8vUfkUESW0HA/1757340859/live/dx-origin/dooball66-max04_720/chunks.m3u8
+https://la5.hellotherepadawan.org:9306/v5/BfEQxPFpTXLviY7IbIvBKw/1757737085/8549d872141eb2f1e0d2405e4f26857a/sCqFM0yigw_ilvkWVldNCA/1757747765/live/lx-origin/dooball66-max04a_720/playlist.m3u8
+	
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 05
+#EXTVLCOPT:http-referrer=https://dookeela.live/	
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://e113.hellotherepadawan.org/v5/cetkx1DG7bXfsJAI7xQaVQ/1756821673/0c97fa64d36e19348bb46d25cd9d737e/auY4WR8DNWOeC3AY9skTuA/1756832353/live/dx-origin/dooball66-max05_720/chunks.m3u8
+#https://e113.hellotherepadawan.org/v5/cetkx1DG7bXfsJAI7xQaVQ/1756821673/0c97fa64d36e19348bb46d25cd9d737e/auY4WR8DNWOeC3AY9skTuA/1756832353/live/dx-origin/dooball66-max05_720/chunks.m3u8
+https://e103.hellotherepadawan.org/v5/aAY7SUFwft1_2MQCSKew8w/1757737389/8549d872141eb2f1e0d2405e4f26857a/y8XOX3I0oi3BDNFyjow6xA/1757748069/live/lx-origin/dooball66-max05c_720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 06
+#EXTVLCOPT:http-referrer=https://dookeela.live/	
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://e113.hellotherepadawan.org/v5/8iNi8VAmd1LCwms4w3fYKA/1756821902/0c97fa64d36e19348bb46d25cd9d737e/S1ArSgXbkQuz7NkculcAnA/1756832582/live/dx-origin/dooball66-max06_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 07
+#EXTVLCOPT:http-referrer=https://dookeela.live/	
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://e106.hellotherepadawan.org/v5/tjU9Of4VbjVDH-SgphEzqA/1756822102/eb79b2290aed13cdd693ebbf408b324d/gp0vqnqLLW9y8JoXxw5Kjw/1756832782/live/dx-origin/dooball66-max07_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 08
+#EXTVLCOPT:http-referrer=https://dookeela.live/	
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://e112.hellotherepadawan.org/v5/7ZS8BsLzVk9ENBmbmw7WOQ/1756822297/0c97fa64d36e19348bb46d25cd9d737e/pvGsrcB_omasxVvBMKzCjA/1756832977/live/dx-origin/dooball66-max08_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://e111.hellotherepadawan.org/v5/4y3VUjnOUfHsJYh8Rf2Afg/1756822411/0c97fa64d36e19348bb46d25cd9d737e/-vtfWhmiTAuzR_YwkwVH4Q/1756833091/live/dx-origin/th-monomax09_720/chunks.m3u8
+#https://e112.hellotherepadawan.org/v5/7ZS8BsLzVk9ENBmbmw7WOQ/1756822297/0c97fa64d36e19348bb46d25cd9d737e/pvGsrcB_omasxVvBMKzCjA/1756832977/live/dx-origin/dooball66-max08_720/chunks.m3u8
+https://e111.hellotherepadawan.org/v5/nnYdn4LsIinJslMRLWy0iw/1757737649/8549d872141eb2f1e0d2405e4f26857a/0P41EBEJ44L2fC1UYKNwBg/1757748329/live/dx-origin/th-monomax08_720/playlist.m3u8
 	
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 10
-https://e113.hellotherepadawan.org/v5/6G6aGOrcyKKUpsRsiaixrg/1756855952/92e6f341c728a6e9b2f28b85333fae8d/jAv3G_g3HxPItDFvGkMmAA/1756866632/live/lx-origin/th-monomax01bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 09
+#EXTVLCOPT:http-referrer=https://dookeela.live/	
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
+#https://e111.hellotherepadawan.org/v5/4y3VUjnOUfHsJYh8Rf2Afg/1756822411/0c97fa64d36e19348bb46d25cd9d737e/-vtfWhmiTAuzR_YwkwVH4Q/1756833091/live/dx-origin/th-monomax09_720/chunks.m3u8
+https://e105.hellotherepadawan.org/v5/ip7Dx7321VbMGxEfg4U3_w/1757084935/43ed1ca42239984fc828353440519446/L-ZuG6LIfJg7h3Hu0hRoiw/1757095615/live/dx-origin/th-monomax09_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 10
+#EXTVLCOPT:http-referrer=https://dookeela.live/	
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://e101.hellotherepadawan.org/v5/lGRRT0J-TD1_qQV7c37vFg/1757389947/f64d0f2cf4c4f5f40364d71ecd080b39/KcM7vQKhZoslKoPkT6_ttQ/1757400627/live/lx-origin/th-monomax10_720/chunks.m3u8
 #https://github.com/KOGOCUNG/plugin/raw/refs/heads/main/live01.m3u8	
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 11
-https://e107.hellotherepadawan.org/v5/rnVfa178VX-6zCcqpf0dhQ/1756856054/5e9177e0495abf481b997bb1e510e390/A2Q55ItZQgx0INjOtYpMgA/1756866734/live/lx-origin/th-monomax02bkp_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela.live/	
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-#https://github.com/KOGOCUNG/plugin/raw/refs/heads/main/live02.m3u8	
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 12
-https://e113.hellotherepadawan.org/v5/VFPHoilBc0xXZFmBs-fIXg/1756858980/2169e3f20b83f61f045fe296fdace92c/-oLIWJVxQTXRktw-gFiROA/1756869660/live/dx-origin/th-monomax03_720/chunks.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-#https://github.com/KOGOCUNG/plugin/raw/refs/heads/main/live04.m3u8	
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 13
-https://e111.hellotherepadawan.org/v5/umQKv7IW4d6VfGxB2S_w0g/1756859268/2169e3f20b83f61f045fe296fdace92c/U-946DfPWO0xLnUjt5xRNg/1756869948/live/dx-origin/th-monomax04_720/chunks.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-#https://github.com/KOGOCUNG/plugin/raw/refs/heads/main/live05.m3u8	
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 14
-https://e113.hellotherepadawan.org/v5/iNRn8PtSmcZGjoVRrkq2Xw/1756860815/2169e3f20b83f61f045fe296fdace92c/_Tm4G6vOijvoIQ6ycWCWAA/1756871495/live/dx-origin/th-monomax05_720/chunks.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-#https://github.com/KOGOCUNG/plugin/raw/refs/heads/main/live06.m3u8	
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 15
-https://e101.hellotherepadawan.org/v5/r7-GEYwy8fdXNcx9Fh-tWQ/1756860469/2169e3f20b83f61f045fe296fdace92c/Wi39hkmMBriMhctm7NHFMQ/1756871149/live/dx-origin/th-monomax06_720/chunks.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-#https://github.com/KOGOCUNG/plugin/raw/refs/heads/main/live07.m3u8	
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 16
-https://e106.hellotherepadawan.org/v5/Cuyq7RYQdy7n0LZp6GMFrQ/1756860390/2169e3f20b83f61f045fe296fdace92c/xol4RANfF8yXo_cAd0szig/1756871070/live/dx-origin/th-monomax07_720/chunks.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-#https://github.com/KOGOCUNG/plugin/raw/refs/heads/main/live07.m3u8
+https://e110.hellotherepadawan.org/v5/_Px0DeZzGOV_Cg_hparaxw/1757570733/f64d0f2cf4c4f5f40364d71ecd080b39/lZJ2elh5fkozMcSpnAjvjA/1757581413/live/lx-origin/th-monomax11_720/chunks.m3u8
+#https://github.com/KOGOCUNG/plugin/raw/refs/heads/main/live01.m3u8	
 	
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 17
-https://e107.hellotherepadawan.org/v5/w8kiJYOr6B_Ozpz0A3CG5w/1756860339/2169e3f20b83f61f045fe296fdace92c/Laa9mHc0B7UM_ja8O1Fdjg/1756871019/live/dx-origin/th-monomax08_720/chunks.m3u8	
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-#https://github.com/KOGOCUNG/plugin/raw/refs/heads/main/live08.m3u8	
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 18
-https://e106.hellotherepadawan.org/v5/qg4XdXIVxLoZwGHiRcNklg/1756860274/2169e3f20b83f61f045fe296fdace92c/ji2_6Lc4uANwgcHlwMl2gA/1756870954/live/dx-origin/th-monomax09_720/chunks.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-#https://github.com/KOGOCUNG/plugin/raw/refs/heads/main/live09.m3u8	
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 19
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e106.hellotherepadawan.org/v5/AX1qNc_4-4YL9vcRMvVtGw/1756820756/0c97fa64d36e19348bb46d25cd9d737e/GY-NHBu_LuZx9PYjiYoQQA/1756831436/live/dx-origin/dooball66-max01_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 20
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e101.hellotherepadawan.org/v5/qh3QYCpGG1Kjc0guWhaMvg/1756821038/eb79b2290aed13cdd693ebbf408b324d/-rhb83XC_NFQLGWsqErQrg/1756831718/live/dx-origin/dooball66-max02_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 21
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e101.hellotherepadawan.org/v5/Js2e44T6PegsLUihDoKlYQ/1756821250/0c97fa64d36e19348bb46d25cd9d737e/JZVUBpHB-BkZ-9oXcTvszA/1756831930/live/dx-origin/dooball66-max03_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 22
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e111.hellotherepadawan.org/v5/mLiE--ITPDQqefBU1slcRw/1756821476/eb79b2290aed13cdd693ebbf408b324d/ftUanxgTrc-XWH7Pz7WvdA/1756832156/live/dx-origin/dooball66-max04_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 23
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e113.hellotherepadawan.org/v5/cetkx1DG7bXfsJAI7xQaVQ/1756821673/0c97fa64d36e19348bb46d25cd9d737e/auY4WR8DNWOeC3AY9skTuA/1756832353/live/dx-origin/dooball66-max05_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 24
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e113.hellotherepadawan.org/v5/8iNi8VAmd1LCwms4w3fYKA/1756821902/0c97fa64d36e19348bb46d25cd9d737e/S1ArSgXbkQuz7NkculcAnA/1756832582/live/dx-origin/dooball66-max06_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 25
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e106.hellotherepadawan.org/v5/tjU9Of4VbjVDH-SgphEzqA/1756822102/eb79b2290aed13cdd693ebbf408b324d/gp0vqnqLLW9y8JoXxw5Kjw/1756832782/live/dx-origin/dooball66-max07_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 26
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e112.hellotherepadawan.org/v5/7ZS8BsLzVk9ENBmbmw7WOQ/1756822297/0c97fa64d36e19348bb46d25cd9d737e/pvGsrcB_omasxVvBMKzCjA/1756832977/live/dx-origin/dooball66-max08_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 27
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e111.hellotherepadawan.org/v5/4y3VUjnOUfHsJYh8Rf2Afg/1756822411/0c97fa64d36e19348bb46d25cd9d737e/-vtfWhmiTAuzR_YwkwVH4Q/1756833091/live/dx-origin/th-monomax09_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 28
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 12
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e109.hellotherepadawan.org/v5/0NKRyvWlR--ixZ4N37PRmA/1756820816/eb79b2290aed13cdd693ebbf408b324d/GrZSIYYt70zvJjeYjWNJ4w/1756831496/live/lx-origin/th-monomax01bkp_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 29
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 13
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e102.hellotherepadawan.org/v5/JYjDcAJqDGhIh7NTGA3xHA/1756821117/0c97fa64d36e19348bb46d25cd9d737e/MVs7chatfKCYqNOXInAxXQ/1756831797/live/lx-origin/th-monomax02bkp_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 30
+	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 14
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e101.hellotherepadawan.org/v5/a1kcVpcLeXE07XMD7EKk5Q/1756821322/eb79b2290aed13cdd693ebbf408b324d/nKYKhoE68rEwFmnHquwO1A/1756832002/live/lx-origin/th-monomax03bkp_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 31
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 15
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e107.hellotherepadawan.org/v5/hkrs3fJqpLkytFpsV1gcAw/1756821551/0c97fa64d36e19348bb46d25cd9d737e/pR18yIApw4qfCX30JSDtQg/1756832231/live/lx-origin/th-monomax04bkp_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 32
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 16
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e111.hellotherepadawan.org/v5/6ylvjb7DVqXiYNZ69qIQhg/1756821739/eb79b2290aed13cdd693ebbf408b324d/Blj9I7X4w3R43SEVG86Cmg/1756832419/live/lx-origin/th-monomax05bkp_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 33
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 17
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://s8x.hellotherepadawan.org:9313/v5/2OuVHFMThw68QDKF0PWSNQ/1756821982/eb79b2290aed13cdd693ebbf408b324d/C8hdcZpYKwtfAdtiNu7HTA/1756832662/live/lx-origin/th-monomax06bkp_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 34
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 18
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e101.hellotherepadawan.org/v5/TcgYF4JMs4NA8zxCygsLwQ/1756822171/0c97fa64d36e19348bb46d25cd9d737e/CFFVc8wUnkDXscdCXJIMTw/1756832851/live/lx-origin/th-monomax07bkp_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 35
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 19
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e106.hellotherepadawan.org/v5/QcIfkfDInX2OHWjSZron9g/1756822354/eb79b2290aed13cdd693ebbf408b324d/3S_bJnsD-qpY_2OufiCodw/1756833034/live/lx-origin/th-monomax08bkp_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 20
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e111.hellotherepadawan.org/v5/4y3VUjnOUfHsJYh8Rf2Afg/1756822411/0c97fa64d36e19348bb46d25cd9d737e/-vtfWhmiTAuzR_YwkwVH4Q/1756833091/live/dx-origin/th-monomax09_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 37
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 21
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e107.hellotherepadawan.org/v5/3FI3AGNaIh8GmeepywBbDw/1757570605/88f690d08a216778391c3547557b28fd/tDmoF9OgXuEzPFAwmIh2eQ/1757581285/live/lx-origin/th-monomax10bkp_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 22
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e107.hellotherepadawan.org/v5/aZdwX02TozB0WReswaCloA/1757571216/f64d0f2cf4c4f5f40364d71ecd080b39/5QTMZKIsyRM-WBa63dWZjQ/1757581896/live/lx-origin/th-monomax11_720/chunks.m3u8
+	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 23
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e113.hellotherepadawan.org/v5/P6L6GMDSkMtBJt-LM_KaxA/1756820947/0c97fa64d36e19348bb46d25cd9d737e/nCOK1RQ5Rac2GzHJ4fIyJA/1756831627/live/lx-origin/th-monomax01eng_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 38
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 24
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e111.hellotherepadawan.org/v5/aaVdJDHO0J_y8Msc_Iyezg/1756821189/eb79b2290aed13cdd693ebbf408b324d/83FTBuILi72XC9anPbmckw/1756831869/live/lx-origin/th-monomax02eng_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 39
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 25
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e102.hellotherepadawan.org/v5/tBAlXnn9GKl_ZnYtEV70lg/1756821399/0c97fa64d36e19348bb46d25cd9d737e/LhDIM6e9WVqKX-XpPEFRSw/1756832079/live/lx-origin/th-monomax03eng_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 40
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 26
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la1.hellotherepadawan.org:9302/v5/c53utiOF4xS5J3xYWxu9fw/1756821618/eb79b2290aed13cdd693ebbf408b324d/Z0TghhDrFbXhUC-bQdP2Pw/1756832298/live/lx-origin/th-monomax04eng_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 41
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 27
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e106.hellotherepadawan.org/v5/SAXnClSKWW1JS0Klnky_pg/1756821813/eb79b2290aed13cdd693ebbf408b324d/bZQq76RfCjffwb4J3c8mPw/1756832493/live/lx-origin/th-monomax05eng_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 42
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 28
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e105.hellotherepadawan.org/v5/RWfIJVm6Ms2pIVw3H5yT4g/1756822041/0c97fa64d36e19348bb46d25cd9d737e/BbhM_rFW2-NAXTh32Z18iQ/1756832721/live/lx-origin/th-monomax06eng_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 43
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 29
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e109.hellotherepadawan.org/v5/r4vNdd_jTjvosxcoeLKlRw/1756822237/eb79b2290aed13cdd693ebbf408b324d/pyHPtrOoi98chGoU0u594w/1756832917/live/lx-origin/th-monomax07eng_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 44
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 30
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e112.hellotherepadawan.org/v5/7ZS8BsLzVk9ENBmbmw7WOQ/1756822297/0c97fa64d36e19348bb46d25cd9d737e/pvGsrcB_omasxVvBMKzCjA/1756832977/live/dx-origin/dooball66-max08_720/chunks.m3u8
+https://e101.hellotherepadawan.org/v5/ok6a-1xYLDTwWWSgVsgrGg/1757330619/88f690d08a216778391c3547557b28fd/Rq5WSl0QrbLMn4CMyXAPPg/1757341299/live/lx-origin/th-monomax08bkp_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 45
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 31
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e108.hellotherepadawan.org/v5/uF20aHj3N0q11q2CB05qBQ/1756822466/eb79b2290aed13cdd693ebbf408b324d/uuIy4ZLVbQDo5z3zyalz5Q/1756833146/live/lx-origin/th-monomax09eng_720/chunks.m3u8
-	
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 32
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e113.hellotherepadawan.org/v5/6gvfjEm9zvBGA80bNLDyCw/1757391464/92e6f341c728a6e9b2f28b85333fae8d/HxXiAhdYvUvucOmV3odAVg/1757402144/live/lx-origin/th-monomax10_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MAXSTLOGO.png" group-title="ช่องกีฬาทั่วไป",MAX Stream 33
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e113.hellotherepadawan.org/v5/Sx8Q2JHn44dJOtKbybkNnA/1757571506/5e9177e0495abf481b997bb1e510e390/W-APJhKfcFsyxYqC3knlXA/1757582186/live/lx-origin/th-monomax11_720/chunks.m3u8	
+
 ########################################
 Kids Channels
 ########################################
@@ -957,6 +829,9 @@ https://atemeshield1-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
 https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Moonbug2ndLogo.png",MOONBUG
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 ########################################
 Discovery Channels
@@ -1111,7 +986,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.m
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png",Rock Entertainment
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp",Rock Entertainment
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
 	
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",Warner TV
@@ -1470,10 +1345,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/JzwO8IO.png",Pluto TV Staff Picks
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b65-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c2fde2b7-d78e-4906-abf2-3c433f73ec5b
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/I5XxyLI.png",CineTerror
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/I5XxyLI.png",Pluto TV CineTerror
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/rtL5L81.png",Flicks of Fury
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/rtL5L81.png",Pluto TV Flicks of Fury
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca66-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=671a0e89-5b21-406b-95a9-b395c4ef4b07
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/eWtoHDM.png",Pluto TV Terror
@@ -1489,6 +1364,45 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b
 Music Channels
 ########################################
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo '70s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo '80s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo '90s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo 2K
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Retro Rock
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Pop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo R&B
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo True School Hip-Hop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Country
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/thumbnail.jpg", MTV BIGGEST POP
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0zfuu9rwq3-xtmDI0QchhGbpDutCTI5er3g&s", MTV SPANKIN NEW
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3fL2sKk3QFw_aM4ZDLHbEetIr3xTNSwUHg&s", MTV ROCKS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624303598e45140007d765c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_i-LBoYAOUGVnETGCHWyUr84TpxrmTXQ3A&s", MTV FLOW LATINO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+	
 #EXTINF:-1 group-title="Music" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/220px-MTV_90s_2022.svg.png",MTV 90's
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1500,7 +1414,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
-
+	
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/3JG8qT3v/IMG-2388.png", Now Rock 
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -1530,41 +1444,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/spirit.png", Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-	
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo '70s
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo '80s
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo '90s
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo 2K
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Retro Rock
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Pop
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo R&B
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo True School Hip-Hop
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Country
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ########################################
 NEWS Channels 
 ########################################
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NBT_World_2025.svg/298px-NBT_World_2025.svg.png",NBT World
-#http://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/playlist.m3u8
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/playlist.m3u8?DVR
+#https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8
 	
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MetroTV.png",Metro TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1698,6 +1584,16 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 #EXTINF:-1 tvg-id="Barcelona.uk" group-title="Sports One" tvg-logo="https://i.postimg.cc/gjyq27vk/IMG-2381.png", Top Barça
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/357px-Real_Madrid_CF.svg.png",Real Madrid TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
+
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.ibb.co.com/YdngBPg/mutv.png" group-title="Sports One",MUTV
+#https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
+	
+#EXTINF:-1 group-title="Sports One" tvg-logo="https://i.postimg.cc/rmVb62dz/Redbull1.png",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+	
 #EXTINF:-1 tvg-id="DFB.us" group-title="Sports One" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/dfbplay.png", DfbplayTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15795
 
@@ -1771,9 +1667,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/220px-TraceSSLogo.png",TRACE SPORT STARS
 http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports One" tvg-logo="https://i.postimg.cc/rmVb62dz/Redbull1.png",RED BULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 group-title="Sports One" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Unifi_Sports_2023.png",UNIFI SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2435,15 +2328,130 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/249298
 หนังใหม่-2025
 ########################################
 
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/",
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
+	
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
+	
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
+	
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
+	
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
+	
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
+	
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
+	
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/06/F1-The-Movie-2025-F1-เดอะ-มูฟวี่-300x450.png",F1 The Movie (2025) F1 เดอะ มูฟวี่
+https://main.24playerhd.com/newplaylist/f104349c0ec457ab4c3749fc/f104349c0ec457ab4c3749fc.m3u8
+	
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Gold-Rush-Gang-2025-เขาชุมทอง-คะนองชุมโจร-300x450.png",Gold Rush Gang (2025) เขาชุมทอง คะนองชุมโจร
+https://main.24playerhd.com/newplaylist/e3cf7b53ee83d191ee3c3c6c/e3cf7b53ee83d191ee3c3c6c.m3u8
+	
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Fall-for-Me-2025-ลวงรักทรยศ-300x450.png",Fall for Me (2025) ลวงรักทรยศ
+https://main.24playerhd.com/newplaylist/a8c850a305bac16a7bb94391/a8c850a305bac16a7bb94391.m3u8
 
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/",
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/One-Hit-Wonder-2025-บทเพลงนี้-ไม่ลืมเธอ-300x450.png",One Hit Wonder (2025) บทเพลงนี้ ไม่ลืมเธอ
+https://main.24playerhd.com/newplaylist/98b7cdbf73ad78a1eec08b8d/98b7cdbf73ad78a1eec08b8d.m3u8
 
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/",
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Shanghai-Knight-2025-ศึกอาชาเซี่ยงไฮ้-300x450.png",Shanghai Knight (2025) ศึกอาชาเซี่ยงไฮ้
+https://main.24playerhd.com/newplaylist/11b1f53175ed8745c626f016/11b1f53175ed8745c626f016.m3u8
 
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/",
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Blood-Brothers-Bara-Naga-2025-เลือดเดือด-ฝ่าองค์กรทมิฬ-300x450.png",Blood Brothers Bara Naga (2025) เลือดเดือด ฝ่าองค์กรทมิฬ
+https://main.24playerhd.com/newplaylist/8672d73ade5812d65613b34b/8672d73ade5812d65613b34b.m3u8
 
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/",
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/02/One-of-Them-Days-2025-300x450.png",One of Them Days (2025) เพื่อนรัก หักค่าเช่า
+https://main.24playerhd.com/newplaylist/053b641ba9e9ab6981645bce/053b641ba9e9ab6981645bce.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Night-Always-Comes-2025-คืนวันอันตราย-300x450.png",Night Always Comes (2025) คืนวันอันตราย
+https://main.24playerhd.com/newplaylist/8989d9f05eea67c390f68874/8989d9f05eea67c390f68874.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/The-Naked-Gun-2025-มือปราบปืนเปลือย-300x450.png",The Naked Gun (2025) มือปราบปืนเปลือย
+https://main.24playerhd.com/newplaylist/a211a860d6c3d00371f470d3/a211a860d6c3d00371f470d3.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Halabala-2025-ฮาลาบาลา-ป่าจิตหลุด-300x450.png",Halabala (2025) ฮาลาบาลา ป่าจิตหลุด
+https://main.24playerhd.com/newplaylist/d9d9d1f7f521fb0512be1103/d9d9d1f7f521fb0512be1103.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Love-or-Lie-2025-ฮักสัปปะลี่กับคดีสีชมพู-300x450.png",Love or Lie (2025) ฮักสัปปะลี่กับคดีสีชมพู
+https://main.24playerhd.com/newplaylist/e8c28e528ca69f92def2b345/e8c28e528ca69f92def2b345.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Credit-Knife-People-2025-ชายผู้ให้ยืมดาบ-300x450.png",Credit Knife People (2025) ชายผู้ให้ยืมดาบ
+https://main.24playerhd.com/newplaylist/b6b643c471a4ec0a21b855ee/b6b643c471a4ec0a21b855ee.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Jiangziya-2025-สังหารขุนพลชิงแผนภูมิวงศ์เทวา-300x450.png",Jiangziya (2025) สังหารขุนพลชิงแผนภูมิวงศ์เทวา
+https://main.24playerhd.com/newplaylist/dd5ff0022ae1985bbc9a64d2/dd5ff0022ae1985bbc9a64d2.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/The-Pickup-2025-เดอะพิคอัพ-300x450.png",The Pickup (2025) เดอะพิคอัพ
+https://main.24playerhd.com/newplaylist/ebfb3e22d052e12aa2c510c0/ebfb3e22d052e12aa2c510c0.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Jurassic-World-Rebirth-2025-จูราสสิค-เวิลด์-กำเนิดชีวิตใหม่-300x450.png",Jurassic World Rebirth (2025) จูราสสิค เวิลด์ กำเนิดชีวิตใหม่
+https://main.24playerhd.com/newplaylist/b8fa8d536bfc086b96d6f60f/b8fa8d536bfc086b96d6f60f.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/My-Oxford-Year-2025-อ็อกซ์ฟอร์ดในฝันของสาวอเมริกัน-300x450.png",My Oxford Year (2025) อ็อกซ์ฟอร์ดในฝันของสาวอเมริกัน
+https://main.24playerhd.com/newplaylist/1607cee1ceec6d3079709f1b/1607cee1ceec6d3079709f1b.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/An-Honest-Life-2025-ชีวิตซื่อ-300x450.png",An Honest Life (2025) ชีวิตซื่อ
+https://main.24playerhd.com/newplaylist/5495795857b3a75c19052d27/5495795857b3a75c19052d27.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/The-Stone-2025-เดอะ-สโตน-พระแท้-คนเก๊-300x450.png",The Stone (2025) เดอะ สโตน พระแท้ คนเก๊
+https://main.24playerhd.com/newplaylist/09e2bd0055172e2236835dae/09e2bd0055172e2236835dae.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/06/Shadow-Force-2025-ดับเบิลจารชน-โคตรคนไร้เงา-300x450.png",Shadow Force (2025) ดับเบิลจารชน โคตรคนไร้เงา
+https://main.24playerhd.com/newplaylist/c3a3edb02fc2b273c2092d21/c3a3edb02fc2b273c2092d21.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2023-สัประยุทธ์ทะลุฟ้า-300x450.jpg",Figth Break Sphere 1 (2025) สัประยุทธ์ทะลุฟ้า 1
+https://main.24playerhd.com/newplaylist/7728de52198f5a623feb14c9/7728de52198f5a623feb14c9.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2-2023-สัประยุทธ์ทะลุฟ้า-2-300x450.jpg",Figth Break Sphere 2 (2025) สัประยุทธ์ทะลุฟ้า 2
+https://main.24playerhd.com/newplaylist/f05cea6c0ca8cf0fc5ee2844/f05cea6c0ca8cf0fc5ee2844.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/04/Figth-Break-Sphere-3-2025-สัประยุทธ์ทะลุฟ้า-3-300x450.png",Figth Break Sphere 3 (2025) สัประยุทธ์ทะลุฟ้า 3
+https://main.24playerhd.com/newplaylist/702521ad575dba8890a4f8a9/702521ad575dba8890a4f8a9.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/04/Figth-Break-Sphere-4-2025-สัประยุทธ์ทะลุฟ้า-4-300x450.png",Figth Break Sphere 4 (2025) สัประยุทธ์ทะลุฟ้า 4
+https://main.24playerhd.com/newplaylist/ea96737d9cf9f1f27d9bdaa8/ea96737d9cf9f1f27d9bdaa8.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/04/The-Red-Envelope-2025-ซองแดงแต่งผี-300x450.png",The Red Envelope (2025) ซองแดงแต่งผี
+https://main.24playerhd.com/newplaylist/1712e730229435c6afd8dcc8/1712e730229435c6afd8dcc8.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/05/Another-Simple-Favor-2025-เพื่อนหาย-อย่าหา-2-300x450.png",Another Simple Favor (2025) เพื่อนหาย อย่าหา 2
+https://main.24playerhd.com/newplaylist/39367f844594cf54f004da01/39367f844594cf54f004da01.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/01/Alarum-2025-300x450.png",Alarum (2025)
+https://main.24playerhd.com/newplaylist/dded6ffba7b93b61d66e401f/dded6ffba7b93b61d66e401f.m3u8	
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Wall-to-Wall-2025-ฝันร้าย-84-ตร.ม-300x450.png",Wall to Wall (2025) ฝันร้าย 84 ตร.ม.
+https://main.24playerhd.com/newplaylist/c8ae1ab1a0b039950b4d47fa/c8ae1ab1a0b039950b4d47fa.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/06/Mountainhead-2025-เมาน์เทนเฮด-300x450.png",Mountainhead (2025) เมาน์เทนเฮด
+https://main.24playerhd.com/newplaylist/73f0e597e92dd4c2b94a1e36/73f0e597e92dd4c2b94a1e36.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Ziam-2025-ปากกัดตีนถีบ-300x450.png",Ziam (2025) ปากกัดตีนถีบ
+https://main.24playerhd.com/newplaylist/152ab368d70abf432fdd0459/152ab368d70abf432fdd0459.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Trainwreck-The-Real-Project-X-2025-อภิมหาวายป่วง-คืนซ่าส์ปาร์ตี้หลุดโลกของจริง-300x450.png",Trainwreck The Real Project X (2025) อภิมหาวายป่วง คืนซ่าส์ปาร์ตี้หลุดโลกของจริง
+https://main.24playerhd.com/newplaylist/5f1df47e197133486fc45c16/5f1df47e197133486fc45c16.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/High-Rollers-2025-แผนปล้นคนหักเหลี่ยม-ทะลวงกาสิโนเดือด-300x450.png",High Rollers (2025) แผนปล้นคนหักเหลี่ยม ทะลวงกาสิโนเดือด
+https://main.24playerhd.com/newplaylist/5dc315ebc5b5ab29a3dbaa13/5dc315ebc5b5ab29a3dbaa13.m3u8
+	
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Heads-of-State-2025-ผู้นำสายบู๊กู้วิกฤต-300x450.png",Heads of State (2025) ผู้นำสายบู๊กู้วิกฤต
+https://main.24playerhd.com/newplaylist/2177ab94cdc9b443f853857c/2177ab94cdc9b443f853857c.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/The-Old-Guard-2020-ดิ-โอลด์-การ์ด-300x450.png",The Old Guard 1 (2025) ดิ โอลด์ การ์ด 1
+https://main.24playerhd.com/newplaylist/9e8755305fd7e9bbe9a8d327/9e8755305fd7e9bbe9a8d327.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/The-Old-Guard-2-2025-ดิ-โอลด์-การ์ด-2-300x450.png",The Old Guard 2 (2025) ดิ โอลด์ การ์ด 2
+https://main.24playerhd.com/newplaylist/623a7aafd6df870d86015d7d/623a7aafd6df870d86015d7d.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/06/Lulu-Is-a-Rhinoceros-2025-300x450.png",Lulu Is a Rhinoceros (2025)
+https://main.24playerhd.com/newplaylist/9986ac865f120422e0b7c342/9986ac865f120422e0b7c342.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/05/The-Assessment-2025-ชีวิตลิขิตไม่ได้-300x450.png",The Assessment (2025) ชีวิตลิขิตไม่ได้
+https://main.24playerhd.com/newplaylist/abfbe30b725ef7cce5764b6b/abfbe30b725ef7cce5764b6b.m3u8
+
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/06/Eternal-Bond-2025-นาคบรรพ์-300x450.png",Eternal Bond (2025) นาคบรรพ์
+https://main.24playerhd.com/newplaylist/7d52ccf049d5c4dbba5a8edb/7d52ccf049d5c4dbba5a8edb.m3u8
 
 #EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Trainwreck-Balloon-Boy-2025-อภิมหาวายป่วง-บอลลูนบอย-300x450.png",Trainwreck Balloon Boy (2025) อภิมหาวายป่วง บอลลูนบอย
 https://main.24playerhd.com/newplaylist/ee304153a968664f747ef068/ee304153a968664f747ef068.m3u8
@@ -15204,325 +15212,4 @@ https://main.24playerhd.com/newplaylist/9b0f9d563ea2799dcf43a2c6/9b0f9d563ea2799
 https://main.24playerhd.com/newplaylist/fff2bf660cffe5b051114134/fff2bf660cffe5b051114134.m3u8
 
 #EXTINF:-1 group-title="หนังการ์ตูน" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Despicable-Me-1-2010-มิสเตอร์แสบ-ร้ายเกินพิกัด-1.jpg" ,Despicable Me 1 (2010) มิสเตอร์แสบ ร้ายเกินพิกัด 1
-https://main.24playerhd.com/newplaylist/f1606a0d24c1006b1565cc34/f1606a0d24c1006b1565cc34.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://main.24playerhd.com/newplaylist/f1606a0d24c1006b1565cc34/f1606a0d24c1006b1565cc34.m3u8	
