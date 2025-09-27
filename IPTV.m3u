@@ -319,35 +319,35 @@ https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง", HBOHD
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/hbo.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง", HBOHits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง", HBOHits
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/hbohits.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186429&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ช่องบันเทิง", HBOSignature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ช่องบันเทิง", HBOSignature
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/hbosignature.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186513&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="ช่องบันเทิง", HBOFamily
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="ช่องบันเทิง", HBOFamily
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/hbofamily.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186427&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="ช่องบันเทิง",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="ช่องบันเทิง",Cinemax
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/cinemax.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186470&extension=ts
 
 ########################################
 ช่องรายการเด็ก
@@ -640,28 +640,31 @@ https://dolive.thaim3u.com/doolive4k-tv/siam-11/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thaifilm
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/truethaifilm.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186616&extension=ts
 
 #EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/trueseries.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186586&extension=ts
 
 #EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/truemoviehit.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186473&extension=ts
 
 #EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/truefilm1.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186617&extension=ts
 
 #EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/truefilm2.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186464&extension=ts
 
 #EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True AsianMore" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/trueasiamove.m3u8
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:24:82:A5&stream=563002&extension=ts
 
-#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="ช่องทรูวิชั่น",True Film Asia
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/truefilmasia.m3u8
+#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",True Film Asia
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186466&extension=ts
+
+#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="AsianHits.th" tvg-name="AsianHits" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png",AsianHits
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186517&extension=ts
 
 #EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/trueccm.m3u8
+http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=191918&extension=ts
 
 #EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
 https://github.com/BONDdata/m3u8/raw/refs/heads/main/trueexplorelife.m3u8
@@ -705,79 +708,6 @@ https://github.com/BONDdata/m3u8/raw/refs/heads/main/truexzyte.m3u8
 #EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
 https://github.com/BONDdata/m3u8/raw/refs/heads/main/trueANIMALPLANET.m3u8
 
-#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", TRUE Golf Channel
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/trueGOLF.m3u8
 
-#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="true-tennis-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp", TRUE Tennis
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/truetennis.m3u8
-
-#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thaifilm
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/truethaifilm.m3u8
-
-#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/trueseries.m3u8
-
-#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/truemoviehit.m3u8
-
-#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/truefilm1.m3u8
-
-#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/truefilm2.m3u8
-
-#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="True AsianMore" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/trueasiamove.m3u8
-
-#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="ช่องทรูวิชั่น",True Film Asia
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/truefilmasia.m3u8
-
-#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/trueccm.m3u8
-
-#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/trueexplorelife.m3u8
-
-#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/trueexploresci.m3u8
-
-#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="TrueExploreWild.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Explore Wild
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/trueexplorewild.m3u8
-
-#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="ช่องทรูวิชั่น", True Crime+Investigation
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/CrimeInvesti.m3u8
-
-#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="ช่องทรูวิชั่น",BBCLifestyle
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/trueBBCLIFESTYLE.m3u8
-
-#EXTINF:-0 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="ช่องทรูวิชั่น",TRUE Lifetime
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/truelifetime.m3u8
-
-#EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="ช่องทรูวิชั่น",True AXN
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/trueAXN.m3u8
-
-#EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="ช่องทรูวิชั่น", TRUE HISTORY
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/trueH2.m3u8
-
-#EXTINF:-0 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="ช่องทรูวิชั่น",TRUE DreamWorks 
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/truedreamworks.m3u8
-
-#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="ช่องทรูวิชั่น",TRUE SPARK PLAY
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/truesparkplay.m3u8
-
-#EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",TRUE WARNER TV
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/truewb.m3u8
-
-#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png",TRUE Nickjr
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/truenickjr.m3u8
-
-#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",TRUE X-ZYTE
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/truexzyte.m3u8
-
-#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png",TRUE ANIMALPLANET
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/trueANIMALPLANET.m3u8
-
-#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://dl.dropbox.com/s/ed7x1ozg9iz4s0l/outdoor.png?dl=0",OUTDOOR
-https://github.com/BONDdata/m3u8/raw/refs/heads/main/outdoor.m3u8
 
 
