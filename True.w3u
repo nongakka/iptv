@@ -1,7 +1,7 @@
 {
 		name: "TRUE IDTV",
-		author: "PLAYIDTV",
-		image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKtGV614O7-Dyj2OWD6xkrHiNDXbSTvj9eyw&usqp=CAU",
+		author: "TrueID",
+		image:"https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/True.png",
 		url: "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/True.w3u",
 		 "info": "รวมฟรีทีวีจากทรูไอดี",
  
@@ -121,3 +121,4 @@ url:"https://tv.trueid.net/th-th/live/pptv-hd?autoplay=yes&nopageview=yes",
 ]
 
 }
+
