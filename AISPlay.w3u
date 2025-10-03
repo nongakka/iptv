@@ -1,5 +1,5 @@
 {
-"name": "Digital TV AIS",
+"name": "AIS Play",
 "author": "",
 "image": "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/ais.png",
 "url":"",
@@ -208,5 +208,6 @@
 ]
 
 }
+
 
 
