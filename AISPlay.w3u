@@ -2,7 +2,7 @@
 "name": "AIS Play",
 "author": "",
 "image": "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/ais.png",
-"url":"",
+"url":"https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/AISPlay.w3u",
 "stations": [
 {
 "name": "",
@@ -177,6 +177,7 @@
 ]
 
 }
+
 
 
 
