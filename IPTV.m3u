@@ -143,7 +143,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
 #https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 
 #EXTINF:-1 tvg-id="PPTV HD.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/36.png" group-title="3BBTV-DigitalTV", PPTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
