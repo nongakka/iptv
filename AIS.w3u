@@ -1,7 +1,7 @@
 {
 "name": "Digital TV AIS",
 "author": "",
-"image": "https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png",
+"image": "https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/ais.png",
 "url":"",
 "stations": [
 {
@@ -208,4 +208,5 @@
 ]
 
 }
+
 
