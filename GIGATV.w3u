@@ -8,7 +8,7 @@
 
 {
 "name": " CH5 ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/5.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd",
 "online": "true",
@@ -16,7 +16,7 @@
 
 {
 "name": " CH3 ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/33.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd",
 "online": "true",
@@ -24,7 +24,7 @@
 
 {
 "name": " CH7 ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd",
 "online": "true",
@@ -32,7 +32,7 @@
 
 {
 "name": " MCOT ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/30.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd",
 "online": "true",
@@ -40,7 +40,7 @@
 
 {
 "name": " NBT ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/2.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd",
 "online": "true",
@@ -48,7 +48,7 @@
 
 {
 "name": " THAI PBS ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/3.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/3/3.mpd",
 "online": "true",
@@ -56,7 +56,7 @@
 
 {
 "name": " TNN16 ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/16.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd",
 "online": "true",
@@ -64,7 +64,7 @@
 
 {
 "name": " NATION ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/22.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd",
 "online": "true",
@@ -72,7 +72,7 @@
 
 {
 "name": " PPTV ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/36.png",
 "imageScale": "fitStart",
 "url": "https://cnt2-streamer2.cdn.3bbtv.com:8443/3bb/live/36/36.mpd",
 "online": "true",
@@ -80,7 +80,7 @@
 
 {
 "name": " AMARIN TV ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/34.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd",
 "online": "true",
@@ -88,7 +88,7 @@
 
 {
 "name": " THAIRATH ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/32.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd",
 "online": "true",
@@ -96,7 +96,7 @@
 
 {
 "name": " ONE31HD ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/31.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd",
 "online": "true",
@@ -104,7 +104,7 @@
 
 {
 "name": " MONO29 ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
 "online": "true",
@@ -112,7 +112,7 @@
 
 {
 "name": " GMM25 ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpdtps",
 "online": "true",
@@ -120,7 +120,7 @@
 
 {
 "name": " WORKPOINT ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/23.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd",
 "online": "true",
@@ -128,7 +128,7 @@
 
 {
 "name": " TRUE4U ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/24.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd",
 "online": "true",
@@ -136,7 +136,7 @@
 
 {
 "name": " CH8 ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd",
 "online": "true",
@@ -144,7 +144,7 @@
 
 {
 "name": " JKN18 ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/18.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/18/18.mpd",
 "online": "true",
@@ -152,7 +152,7 @@
 
 {
 "name": " T-SPORT7 ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd",
 "online": "true",
@@ -160,17 +160,15 @@
 
 {
 "name": " TPTV ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/10.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/10/10.mpd",
 "online": "true",
 "drm": "clearkey", "drmkey": "5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb"},
 
-
-
 {
 "name": " HBOTH",
-"image": "https://realmetx.serv00.net/logo/hbo.png",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/103.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd",
 "online": "true",
@@ -178,7 +176,7 @@
 
 {
 "name": " HBO Family",
-"image": "https://realmetx.serv00.net/logo/hbofamily.png",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd",
 "online": "true",
@@ -186,7 +184,7 @@
 
 {
 "name": " HBO CINEMAX",
-"image": "https://realmetx.serv00.net/logo/cinemax.png",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/107.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd",
 "online": "true",
@@ -194,7 +192,7 @@
 
 {
 "name": " HBO HITS",
-"image": "https://realmetx.serv00.net/logo/hbohits.png",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/105.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd",
 "online": "true",
@@ -202,7 +200,7 @@
 
 {
 "name": " HBO SIG",
-"image": "https://realmetx.serv00.net/logo/hbosig.png",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/104.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd",
 "online": "true",
@@ -210,32 +208,19 @@
 
 {
 "name": " Mono29Plus ",
-"image": "https",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png,
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd",
 "online": "true",
 "drm": "clearkey", "drmkey": "072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c"},
 
 {
-"name": " 3BB ASAIN ",
-"image": "https",
+"name": " ASAIN Hits ",
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd",
 "online": "true",
 "drm": "clearkey", "drmkey": "dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48"},
-
-{
-"name": " 3BB SPORT1 ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f"},
-
-
-
-
-
 
 
    ]
