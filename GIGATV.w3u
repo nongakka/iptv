@@ -1,7 +1,7 @@
   {
    "name": "3BB GIGATV",
-   "info": "GIGATV ",
-   "image": "https://dl.dropbox.com/scl/fi/rmxnwh4zs7umcjawfod44/.png?rlkey=20tmi23bjh8t0eyiinlspfvrj&dl=0",
+   "info": "JAS TV ",
+   "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/banner/All-Logo-PNG/JAS%20TV_500x500.png",
    "url":"https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/GIGATV.w3u",
    "stations": [
 
@@ -208,7 +208,7 @@
 
 {
 "name": " Mono29Plus ",
-"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png,
+"image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",
 "imageScale": "fitStart",
 "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd",
 "online": "true",
