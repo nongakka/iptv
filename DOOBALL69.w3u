@@ -1,0 +1,2764 @@
+{
+  "name": "ดูบอลออนไลน์",
+  "author": "DOOBALL69!",
+  "url": "",
+  "image": "https://cdn-icons-png.flaticon.com/512/4049/4049083.png",
+  "groups": [
+    {
+      "name": "Digital TV",
+      "image": "https://cdn-icons-png.flaticon.com/512/17340/17340020.png",
+      "stations": [
+        {
+          "name": "sd-nbt",
+          "image": "https://api.rentm3u8.com/images/png/sd-nbt.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sd-nbt&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sd-nbt",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-amarin",
+          "image": "https://api.rentm3u8.com/images/png/hd-amarin.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-amarin&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-amarin",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-ch3",
+          "image": "https://api.rentm3u8.com/images/png/hd-ch3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-ch3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-ch3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-ch5",
+          "image": "https://api.rentm3u8.com/images/png/hd-ch5.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-ch5&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-ch5",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-ch7",
+          "image": "https://api.rentm3u8.com/images/png/hd-ch7.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-ch7&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-ch7",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-ch8",
+          "image": "https://api.rentm3u8.com/images/png/hd-ch8.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-ch8&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-ch8",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-gmmone",
+          "image": "https://api.rentm3u8.com/images/png/hd-gmmone.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-gmmone&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-gmmone",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-mcot",
+          "image": "https://api.rentm3u8.com/images/png/hd-mcot.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-mcot&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-mcot",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-mono",
+          "image": "https://api.rentm3u8.com/images/png/hd-mono.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-mono&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-mono",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-pptv",
+          "image": "https://api.rentm3u8.com/images/png/hd-pptv.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-pptv&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-pptv",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-thairath",
+          "image": "https://api.rentm3u8.com/images/png/hd-thairath.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-thairath&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-thairath",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-tpbs",
+          "image": "https://api.rentm3u8.com/images/png/hd-tpbs.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-tpbs&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-tpbs",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-workpoint",
+          "image": "https://api.rentm3u8.com/images/png/hd-workpoint.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-workpoint&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-workpoint",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sd-24u",
+          "image": "https://api.rentm3u8.com/images/png/sd-24u.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sd-24u&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sd-24u",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sd-gmmchannel",
+          "image": "https://api.rentm3u8.com/images/png/sd-gmmchannel.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sd-gmmchannel&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sd-gmmchannel",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sd-nation",
+          "image": "https://api.rentm3u8.com/images/png/sd-nation.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sd-nation&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sd-nation",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sd-new",
+          "image": "https://api.rentm3u8.com/images/png/sd-new.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sd-new&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sd-new",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sd-tnn24",
+          "image": "https://api.rentm3u8.com/images/png/sd-tnn24.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sd-tnn24&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sd-tnn24",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sd-tptv",
+          "image": "https://api.rentm3u8.com/images/png/sd-tptv.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sd-tptv&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sd-tptv",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        }
+      ]
+    },
+    {
+      "name": "Entertainment",
+      "image": "https://cdn-icons-png.flaticon.com/512/4247/4247938.png",
+      "stations": [
+        {
+          "name": "hd-asianmore",
+          "image": "https://api.rentm3u8.com/images/png/hd-asianmore.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-asianmore&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-asianmore",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-dreamworks",
+          "image": "https://api.rentm3u8.com/images/png/hd-dreamworks.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-dreamworks&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-dreamworks",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-axn",
+          "image": "https://api.rentm3u8.com/images/png/hd-axn.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-axn&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-axn",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-tfilm",
+          "image": "https://api.rentm3u8.com/images/png/hd-tfilm.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-tfilm&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-tfilm",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-tfilm2",
+          "image": "https://api.rentm3u8.com/images/png/hd-tfilm2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-tfilm2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-tfilm2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-warnertv",
+          "image": "https://api.rentm3u8.com/images/png/hd-warnertv.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-warnertv&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-warnertv",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-xzyte",
+          "image": "https://api.rentm3u8.com/images/png/hd-xzyte.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-xzyte&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-xzyte",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sd-moviehits",
+          "image": "https://api.bigwifegang.org/images/png/sd-moviehits.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sd-moviehits&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sd-mixmajor",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sd-series",
+          "image": "https://api.bigwifegang.org/images/png/sd-series.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sd-series&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sd-mixmajor",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sd-thaifilm",
+          "image": "https://api.rentm3u8.com/images/png/sd-thaifilm.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sd-thaifilm&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sd-thaifilm",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        }
+      ]
+    },
+    {
+      "name": "Documentary",
+      "image": "https://cdn-icons-png.flaticon.com/512/2059/2059836.png",
+      "stations": [
+        
+        {
+          "name": "hd-food",
+          "image": "https://api.rentm3u8.com/images/png/hd-food.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-food&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-food",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-history",
+          "image": "https://api.rentm3u8.com/images/png/hd-history.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-history&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-history",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sd-expwild",
+          "image": "https://api.rentm3u8.com/images/png/sd-expwild.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sd-expwild&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sd-expwild",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        }
+      ]
+    },
+    {
+      "name": "กีฬา",
+      "image": "https://cdn-icons-png.flaticon.com/512/857/857455.png",
+      "stations": [
+        
+        {
+          "name": "Mono Max 1",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax01.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=dooball66-max01a&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax1a",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Mono Max 1",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax01.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=dooball66-max01b&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax1b",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Mono Max 1",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax01.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-monomax01bkp&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax1bk",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Mono Max 1",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax01.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-monomax01eng&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax1eng",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Mono Max 2",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax02.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=dooball66-max02a&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax2a",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Mono Max 2",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax02.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=dooball66-max02b&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax2b",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Mono Max 2",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax02.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-monomax02bkp&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax2bk",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Mono Max 2",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax02.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-monomax02eng&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax2eng",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Mono Max 3",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax03.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=dooball66-max03a&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax3a",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Mono Max 3",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax03.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=dooball66-max03b&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax3b",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Mono Max 3",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax03.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-monomax03bkp&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax3bk",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Mono Max 3",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax03.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-monomax03eng&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax3eng",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Mono Max 4",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax04.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=dooball66-max04a&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax4a",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Mono Max 4",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax04.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=dooball66-max04b&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax4b",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Mono Max 4",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax01.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-monomax04eng&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax4eng",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Mono Max 5",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax05.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=dooball66-max05a&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax5a",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Mono Max 5",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax05.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=dooball66-max05b&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax5b",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Mono Max 5",
+          "image": "https://api.bigwifegang.org/images/png/th-monomax05.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-monomax05eng&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "MonoMax5eng",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-spotv",
+          "image": "https://api.rentm3u8.com/images/png/hd-spotv.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-spotv&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-spotv",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-spotv",
+          "image": "https://api.rentm3u8.com/images/png/hd-spotv.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-spotv1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-spotv",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "th-spotv",
+          "image": "https://api.rentm3u8.com/images/png/th-spotv1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-spotv1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "th-spotv1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-spotv2",
+          "image": "https://api.rentm3u8.com/images/png/hd-spotv2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-spotv2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-spotv2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "th-spotv2",
+          "image": "https://api.rentm3u8.com/images/png/th-spotv2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-spotv2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "th-spotv2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "th-bein1",
+          "image": "https://api.rentm3u8.com/images/png/th-bein1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-bein1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "th-bein1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "epl-bein1",
+          "image": "https://api.rentm3u8.com/images/png/th-bein1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=epl-bein1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "th-bein1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "th-bein2",
+          "image": "https://api.rentm3u8.com/images/png/th-bein2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-bein2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "th-bein2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "epl-bein2",
+          "image": "https://api.rentm3u8.com/images/png/th-bein2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=epl-bein2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "th-bein2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "th-bein3",
+          "image": "https://api.rentm3u8.com/images/png/th-bein3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-bein3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "th-bein3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "epl-bein3",
+          "image": "https://api.rentm3u8.com/images/png/th-bein3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=epl-bein3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "th-bein3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-tsport1",
+          "image": "https://api.rentm3u8.com/images/png/hd-tsport1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-tsport1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-tsport1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-tsport2",
+          "image": "https://api.rentm3u8.com/images/png/hd-tsport2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-tsport2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-tsport2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-tsport3",
+          "image": "https://api.rentm3u8.com/images/png/hd-tsport3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-tsport3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-tsport3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-tsport4",
+          "image": "https://api.rentm3u8.com/images/png/hd-tsport4.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-tsport4&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-tsport4",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sd-tsport5",
+          "image": "https://api.rentm3u8.com/images/png/sd-tsport5.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sd-tsport5&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sd-tsport5",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sd-tsport7",
+          "image": "https://api.rentm3u8.com/images/png/sd-tsport7.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sd-tsport7&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sd-tsport7",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sd-tsports",
+          "image": "https://api.rentm3u8.com/images/png/sd-tsports.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sd-tsports&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sd-tsports",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "th-tsporthd1",
+          "image": "https://api.rentm3u8.com/images/png/th-tsporthd1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-tsporthd1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "th-tsporthd1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "th-tsporthd2",
+          "image": "https://api.rentm3u8.com/images/png/th-tsporthd2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-tsporthd2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "th-tsporthd2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "th-tsporthd3",
+          "image": "https://api.rentm3u8.com/images/png/th-tsporthd3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-tsporthd3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "th-tsporthd3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "th-tsporthd4",
+          "image": "https://api.rentm3u8.com/images/png/th-tsporthd4.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-tsporthd4&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "th-tsporthd4",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "th-tsport5",
+          "image": "https://api.rentm3u8.com/images/png/th-tsport5.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-tsport5&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "th-tsport5",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "th-tsport7",
+          "image": "https://api.rentm3u8.com/images/png/th-tsport7.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-tsport7&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "th-tsport7",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-golf2",
+          "image": "https://api.rentm3u8.com/images/png/hd-golf2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-golf2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-golf2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-tennis",
+          "image": "https://api.rentm3u8.com/images/png/hd-tennis.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-tennis&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-tennis",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-eleven",
+          "image": "https://api.rentm3u8.com/images/png/us-eleven.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-eleven&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-eleven",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "au-fox501",
+          "image": "https://api.rentm3u8.com/images/png/au-fox501.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=au-fox501&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "au-fox501",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "au-fox502",
+          "image": "https://api.rentm3u8.com/images/png/au-fox502.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=au-fox502&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "au-fox502",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "au-fox503",
+          "image": "https://api.rentm3u8.com/images/png/au-fox503.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=au-fox503&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "au-fox503",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "au-fox505",
+          "image": "https://api.rentm3u8.com/images/png/au-fox505.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=au-fox505&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "au-fox505",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "au-fox506",
+          "image": "https://api.rentm3u8.com/images/png/au-fox506.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=au-fox506&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "au-fox506",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "au-fox507",
+          "image": "https://api.rentm3u8.com/images/png/au-fox507.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=au-fox507&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "au-fox507",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "ca-sportsnet1",
+          "image": "https://api.rentm3u8.com/images/png/ca-sportsnet1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=ca-sportsnet1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "ca-sportsnet1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "ca-sportsnet360",
+          "image": "https://api.rentm3u8.com/images/png/ca-sportsnet360.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=ca-sportsnet360&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "ca-sportsnet360",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "ca-sportsnetontario",
+          "image": "https://api.rentm3u8.com/images/png/ca-sportsnetontario.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=ca-sportsnetontario&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "ca-sportsnetontario",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "ca-tsn1",
+          "image": "https://api.rentm3u8.com/images/png/ca-tsn1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=ca-tsn1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "ca-tsn1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "ca-tsn2",
+          "image": "https://api.rentm3u8.com/images/png/ca-tsn2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=ca-tsn2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "ca-tsn2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "ca-tsn3",
+          "image": "https://api.rentm3u8.com/images/png/ca-tsn3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=ca-tsn3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "ca-tsn3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "ca-tsn4",
+          "image": "https://api.rentm3u8.com/images/png/ca-tsn4.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=ca-tsn4&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "ca-tsn4",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "ca-tsn5",
+          "image": "https://api.rentm3u8.com/images/png/ca-tsn5.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=ca-tsn5&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "ca-tsn5",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "ca-tvasports",
+          "image": "https://api.rentm3u8.com/images/png/ca-tvasports.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=ca-tvasports&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "ca-tvasports",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "co-winsports",
+          "image": "https://api.rentm3u8.com/images/png/co-winsports.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=co-winsports&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "co-winsports",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "rs-sportklub1",
+          "image": "https://api.rentm3u8.com/images/png/rs-sportklub1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=rs-sportklub1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "rs-sportklub1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "rs-sportklub2",
+          "image": "https://api.rentm3u8.com/images/png/rs-sportklub2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=rs-sportklub2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "rs-sportklub2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "rs-sportklub3",
+          "image": "https://api.rentm3u8.com/images/png/rs-sportklub3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=rs-sportklub3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "rs-sportklub3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "cz-ctsport",
+          "image": "https://api.rentm3u8.com/images/png/cz-ctsport.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=cz-ctsport&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "cz-ctsport",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "cz-novasport1",
+          "image": "https://api.rentm3u8.com/images/png/cz-novasport1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=cz-novasport1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "cz-novasport1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "cz-novasport2",
+          "image": "https://api.rentm3u8.com/images/png/cz-novasport2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=cz-novasport2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "cz-novasport2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "cz-novasport3",
+          "image": "https://api.rentm3u8.com/images/png/cz-novasport3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=cz-novasport3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "cz-novasport3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "fr-bein1hd",
+          "image": "https://api.rentm3u8.com/images/png/fr-bein1hd.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=fr-bein1hd&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "fr-bein1hd",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "fr-bein2hd",
+          "image": "https://api.rentm3u8.com/images/png/fr-bein2hd.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=fr-bein2hd&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "fr-bein2hd",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "fr-bein3hd",
+          "image": "https://api.rentm3u8.com/images/png/fr-bein3hd.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=fr-bein3hd&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "fr-bein3hd",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "fr-canalsport",
+          "image": "https://api.rentm3u8.com/images/png/fr-canalsport.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=fr-canalsport&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "fr-canalsport",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "fr-dazn01",
+          "image": "https://api.rentm3u8.com/images/png/fr-dazn01.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=fr-dazn01&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "fr-dazn01",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "fr-eurosport",
+          "image": "https://api.rentm3u8.com/images/png/fr-eurosport.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=fr-eurosport&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "fr-eurosport",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "fr-eurosport2",
+          "image": "https://api.rentm3u8.com/images/png/fr-eurosport2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=fr-eurosport2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "fr-eurosport2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "fr-infosport",
+          "image": "https://api.rentm3u8.com/images/png/fr-infosport.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=fr-infosport&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "fr-infosport",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "fr-rmcsport1",
+          "image": "https://api.rentm3u8.com/images/png/fr-rmcsport1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=fr-rmcsport1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "fr-rmcsport1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "fr-rmcsport2",
+          "image": "https://api.rentm3u8.com/images/png/fr-rmcsport2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=fr-rmcsport2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "fr-rmcsport2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "fr-rmcsport3",
+          "image": "https://api.rentm3u8.com/images/png/fr-rmcsport3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=fr-rmcsport3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "fr-rmcsport3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "de-daznlive2",
+          "image": "https://api.rentm3u8.com/images/png/de-daznlive2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=de-daznlive2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "de-daznlive2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "de-dfbplay",
+          "image": "https://api.rentm3u8.com/images/png/de-dfbplay.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=de-dfbplay&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "de-dfbplay",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "de-skybundesliga",
+          "image": "https://api.rentm3u8.com/images/png/de-skybundesliga.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=de-skybundesliga&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "de-skybundesliga",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "de-skysport-epl",
+          "image": "https://api.rentm3u8.com/images/png/de-skysport-epl.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=de-skysport-epl&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "de-skysport-epl",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "de-skysport-topevent",
+          "image": "https://api.rentm3u8.com/images/png/de-skysport-topevent.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=de-skysport-topevent&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "de-skysport-topevent",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "de-sport1",
+          "image": "https://api.rentm3u8.com/images/png/de-sport1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=de-sport1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "de-sport1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "de-sport1plus",
+          "image": "https://api.rentm3u8.com/images/png/de-sport1plus.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=de-sport1plus&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "de-sport1plus",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "de-sportdigital",
+          "image": "https://api.rentm3u8.com/images/png/de-sportdigital.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=de-sportdigital&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "de-sportdigital",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "in-starsports1",
+          "image": "https://api.rentm3u8.com/images/png/in-starsports1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=in-starsports1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "in-starsports1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "in-starsports2",
+          "image": "https://api.rentm3u8.com/images/png/in-starsports2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=in-starsports2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "in-starsports2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "in-ten1",
+          "image": "https://api.rentm3u8.com/images/png/in-ten1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=in-ten1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "in-ten1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "in-ten2",
+          "image": "https://api.rentm3u8.com/images/png/in-ten2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=in-ten2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "in-ten2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "in-ten3",
+          "image": "https://api.rentm3u8.com/images/png/in-ten3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=in-ten3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "in-ten3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "id-indosiar",
+          "image": "https://api.rentm3u8.com/images/png/id-indosiar.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=id-indosiar&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "id-indosiar",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "id-sctv",
+          "image": "https://api.rentm3u8.com/images/png/id-sctv.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=id-sctv&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "id-sctv",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "la-tycsports",
+          "image": "https://api.rentm3u8.com/images/png/la-tycsports.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=la-tycsports&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "la-tycsports",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "my-arena1",
+          "image": "https://api.rentm3u8.com/images/png/my-arena1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=my-arena1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "my-arena1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "my-arena2",
+          "image": "https://api.rentm3u8.com/images/png/my-arena2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=my-arena2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "my-arena2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "my-astro-badminton2",
+          "image": "https://api.rentm3u8.com/images/png/my-astro-badminton2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=my-astro-badminton2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "my-astro-badminton2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "my-astro-epl1",
+          "image": "https://api.rentm3u8.com/images/png/my-astro-epl1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=my-astro-epl1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "my-astro-epl1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "my-astro-epl2",
+          "image": "https://api.rentm3u8.com/images/png/my-astro-epl2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=my-astro-epl2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "my-astro-epl2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "my-astro-football",
+          "image": "https://api.rentm3u8.com/images/png/my-astro-football.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=my-astro-football&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "my-astro-football",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "my-astro-grandstand",
+          "image": "https://api.rentm3u8.com/images/png/my-astro-grandstand.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=my-astro-grandstand&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "my-astro-grandstand",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "my-astro-sportsplus",
+          "image": "https://api.rentm3u8.com/images/png/my-astro-sportsplus.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=my-astro-sportsplus&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "my-astro-sportsplus",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "my-bein1",
+          "image": "https://api.rentm3u8.com/images/png/my-bein1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=my-bein1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "my-bein1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "my-bein2",
+          "image": "https://api.rentm3u8.com/images/png/my-bein2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=my-bein2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "my-bein2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "my-bein3",
+          "image": "https://api.rentm3u8.com/images/png/my-bein3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=my-bein3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "my-bein3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "my-nbcgolf",
+          "image": "https://api.rentm3u8.com/images/png/my-nbcgolf.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=my-nbcgolf&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "my-nbcgolf",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "my-premiersports",
+          "image": "https://api.rentm3u8.com/images/png/my-premiersports.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=my-premiersports&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "my-premiersports",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "my-spotv1",
+          "image": "https://api.rentm3u8.com/images/png/my-spotv1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=my-spotv1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "my-spotv1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "my-spotv2",
+          "image": "https://api.rentm3u8.com/images/png/my-spotv2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=my-spotv2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "my-spotv2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "my-wsport",
+          "image": "https://api.rentm3u8.com/images/png/my-wsport.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=my-wsport&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "my-wsport",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "my-wwe",
+          "image": "https://api.rentm3u8.com/images/png/my-wwe.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=my-wwe&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "my-wwe",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-fightsports",
+          "image": "https://api.rentm3u8.com/images/png/hd-fightsports.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-fightsports&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-fightsports",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nl-espn1",
+          "image": "https://api.rentm3u8.com/images/png/nl-espn1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nl-espn1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nl-espn1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nl-espn2",
+          "image": "https://api.rentm3u8.com/images/png/nl-espn2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nl-espn2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nl-espn2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nl-espn3",
+          "image": "https://api.rentm3u8.com/images/png/nl-espn3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nl-espn3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nl-espn3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nl-espn4",
+          "image": "https://api.rentm3u8.com/images/png/nl-espn4.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nl-espn4&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nl-espn4",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nl-ziggosport1",
+          "image": "https://api.rentm3u8.com/images/png/nl-ziggosport1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nl-ziggosport1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nl-ziggosport1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nl-ziggosport2",
+          "image": "https://api.rentm3u8.com/images/png/nl-ziggosport2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nl-ziggosport2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nl-ziggosport2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nl-ziggosport3",
+          "image": "https://api.rentm3u8.com/images/png/nl-ziggosport3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nl-ziggosport3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nl-ziggosport3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nl-ziggosport4",
+          "image": "https://api.rentm3u8.com/images/png/nl-ziggosport4.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nl-ziggosport4&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nl-ziggosport4",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nl-ziggosport5",
+          "image": "https://api.rentm3u8.com/images/png/nl-ziggosport5.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nl-ziggosport5&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nl-ziggosport5",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nl-ziggosport6",
+          "image": "https://api.rentm3u8.com/images/png/nl-ziggosport6.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nl-ziggosport6&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nl-ziggosport6",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nz-skysport1",
+          "image": "https://api.rentm3u8.com/images/png/nz-skysport1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nz-skysport1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nz-skysport1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nz-skysport2",
+          "image": "https://api.rentm3u8.com/images/png/nz-skysport2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nz-skysport2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nz-skysport2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nz-skysport3",
+          "image": "https://api.rentm3u8.com/images/png/nz-skysport3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nz-skysport3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nz-skysport3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nz-skysport4",
+          "image": "https://api.rentm3u8.com/images/png/nz-skysport4.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nz-skysport4&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nz-skysport4",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nz-skysport5",
+          "image": "https://api.rentm3u8.com/images/png/nz-skysport5.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nz-skysport5&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nz-skysport5",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nz-skysport6",
+          "image": "https://api.rentm3u8.com/images/png/nz-skysport6.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nz-skysport6&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nz-skysport6",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nz-skysport7",
+          "image": "https://api.rentm3u8.com/images/png/nz-skysport7.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nz-skysport7&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nz-skysport7",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nz-skysport8",
+          "image": "https://api.rentm3u8.com/images/png/nz-skysport8.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nz-skysport8&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nz-skysport8",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "nz-skysport9",
+          "image": "https://api.rentm3u8.com/images/png/nz-skysport9.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=nz-skysport9&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "nz-skysport9",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "no-vsport1",
+          "image": "https://api.rentm3u8.com/images/png/no-vsport1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=no-vsport1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "no-vsport1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "no-vsport2",
+          "image": "https://api.rentm3u8.com/images/png/no-vsport2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=no-vsport2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "no-vsport2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "no-vsport3",
+          "image": "https://api.rentm3u8.com/images/png/no-vsport3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=no-vsport3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "no-vsport3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "pl-canalsport1",
+          "image": "https://api.rentm3u8.com/images/png/pl-canalsport1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=pl-canalsport1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "pl-canalsport1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "pl-canalsport2",
+          "image": "https://api.rentm3u8.com/images/png/pl-canalsport2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=pl-canalsport2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "pl-canalsport2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "pl-canalsport3",
+          "image": "https://api.rentm3u8.com/images/png/pl-canalsport3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=pl-canalsport3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "pl-canalsport3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "pl-polsatsport",
+          "image": "https://api.rentm3u8.com/images/png/pl-polsatsport.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=pl-polsatsport&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "pl-polsatsport",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "pl-polsatsportextra",
+          "image": "https://api.rentm3u8.com/images/png/pl-polsatsportextra.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=pl-polsatsportextra&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "pl-polsatsportextra",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "pl-polsatsportnews",
+          "image": "https://api.rentm3u8.com/images/png/pl-polsatsportnews.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=pl-polsatsportnews&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "pl-polsatsportnews",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "pl-polsatsportpremium1",
+          "image": "https://api.rentm3u8.com/images/png/pl-polsatsportpremium1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=pl-polsatsportpremium1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "pl-polsatsportpremium1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "pl-polsatsportpremium2",
+          "image": "https://api.rentm3u8.com/images/png/pl-polsatsportpremium2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=pl-polsatsportpremium2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "pl-polsatsportpremium2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "pl-polsatsportpremium4",
+          "image": "https://api.rentm3u8.com/images/png/pl-polsatsportpremium4.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=pl-polsatsportpremium4&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "pl-polsatsportpremium4",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "pl-polsatsportpremium5",
+          "image": "https://api.rentm3u8.com/images/png/pl-polsatsportpremium5.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=pl-polsatsportpremium5&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "pl-polsatsportpremium5",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "pl-polsatsportpremium6",
+          "image": "https://api.rentm3u8.com/images/png/pl-polsatsportpremium6.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=pl-polsatsportpremium6&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "pl-polsatsportpremium6",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "pl-tvpsport",
+          "image": "https://api.rentm3u8.com/images/png/pl-tvpsport.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=pl-tvpsport&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "pl-tvpsport",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "pt-sporttv1",
+          "image": "https://api.rentm3u8.com/images/png/pt-sporttv1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=pt-sporttv1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "pt-sporttv1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "pt-sporttv2",
+          "image": "https://api.rentm3u8.com/images/png/pt-sporttv2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=pt-sporttv2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "pt-sporttv2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "pt-sporttv3",
+          "image": "https://api.rentm3u8.com/images/png/pt-sporttv3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=pt-sporttv3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "pt-sporttv3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "pt-sporttv4",
+          "image": "https://api.rentm3u8.com/images/png/pt-sporttv4.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=pt-sporttv4&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "pt-sporttv4",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "pt-sporttv5",
+          "image": "https://api.rentm3u8.com/images/png/pt-sporttv5.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=pt-sporttv5&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "pt-sporttv5",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-bein1",
+          "image": "https://api.rentm3u8.com/images/png/hd-bein1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-bein1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-bein1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-bein10",
+          "image": "https://api.rentm3u8.com/images/png/hd-bein10.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-bein10&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-bein10",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-bein11",
+          "image": "https://api.rentm3u8.com/images/png/hd-bein11.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-bein11&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-bein11",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-bein12",
+          "image": "https://api.rentm3u8.com/images/png/hd-bein12.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-bein12&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-bein12",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-bein2",
+          "image": "https://api.rentm3u8.com/images/png/hd-bein2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-bein2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-bein2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-bein3",
+          "image": "https://api.rentm3u8.com/images/png/hd-bein3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-bein3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-bein3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-bein4",
+          "image": "https://api.rentm3u8.com/images/png/hd-bein4.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-bein4&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-bein4",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-bein5",
+          "image": "https://api.rentm3u8.com/images/png/hd-bein5.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-bein5&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-bein5",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-bein6",
+          "image": "https://api.rentm3u8.com/images/png/hd-bein6.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-bein6&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-bein6",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-bein7",
+          "image": "https://api.rentm3u8.com/images/png/hd-bein7.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-bein7&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-bein7",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-bein8",
+          "image": "https://api.rentm3u8.com/images/png/hd-bein8.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-bein8&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-bein8",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-bein9",
+          "image": "https://api.rentm3u8.com/images/png/hd-bein9.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-bein9&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-bein9",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "ro-digisport1",
+          "image": "https://api.rentm3u8.com/images/png/ro-digisport1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=ro-digisport1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "ro-digisport1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "ro-digisport3",
+          "image": "https://api.rentm3u8.com/images/png/ro-digisport3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=ro-digisport3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "ro-digisport3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "ro-digisport4",
+          "image": "https://api.rentm3u8.com/images/png/ro-digisport4.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=ro-digisport4&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "ro-digisport4",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "rs-arena1",
+          "image": "https://api.rentm3u8.com/images/png/rs-arena1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=rs-arena1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "rs-arena1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sg-bein1",
+          "image": "https://api.rentm3u8.com/images/png/sg-bein1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sg-bein1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sg-bein1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sg-bein2",
+          "image": "https://api.rentm3u8.com/images/png/sg-bein2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sg-bein2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sg-bein2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sg-bein3",
+          "image": "https://api.rentm3u8.com/images/png/sg-bein3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sg-bein3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sg-bein3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sg-eurosport1",
+          "image": "https://api.rentm3u8.com/images/png/sg-eurosport1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sg-eurosport1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sg-eurosport1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sg-fightsports",
+          "image": "https://api.rentm3u8.com/images/png/sg-fightsports.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sg-fightsports&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sg-fightsports",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sg-hubpremier02",
+          "image": "https://api.rentm3u8.com/images/png/sg-hubpremier02.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sg-hubpremier02&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sg-hubpremier02",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sg-hubpremier03",
+          "image": "https://api.rentm3u8.com/images/png/sg-hubpremier03.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sg-hubpremier03&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sg-hubpremier03",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sg-hubpremier04",
+          "image": "https://api.rentm3u8.com/images/png/sg-hubpremier04.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sg-hubpremier04&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sg-hubpremier04",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sg-hubpremier05",
+          "image": "https://api.rentm3u8.com/images/png/sg-hubpremier05.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sg-hubpremier05&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sg-hubpremier05",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sg-hubsport01",
+          "image": "https://api.rentm3u8.com/images/png/sg-hubsport01.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sg-hubsport01&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sg-hubsport01",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sg-hubsport02",
+          "image": "https://api.rentm3u8.com/images/png/sg-hubsport02.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sg-hubsport02&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sg-hubsport02",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sg-hubsport03",
+          "image": "https://api.rentm3u8.com/images/png/sg-hubsport03.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sg-hubsport03&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sg-hubsport03",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sg-spotv1",
+          "image": "https://api.rentm3u8.com/images/png/sg-spotv1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sg-spotv1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sg-spotv1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sg-spotv2",
+          "image": "https://api.rentm3u8.com/images/png/sg-spotv2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sg-spotv2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sg-spotv2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "sk-arena1",
+          "image": "https://api.rentm3u8.com/images/png/sk-arena1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=sk-arena1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "sk-arena1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "se-cmoresport",
+          "image": "https://api.rentm3u8.com/images/png/se-cmoresport.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=se-cmoresport&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "se-cmoresport",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "se-kanal5",
+          "image": "https://api.rentm3u8.com/images/png/se-kanal5.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=se-kanal5&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "se-kanal5",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "se-viasatsport",
+          "image": "https://api.rentm3u8.com/images/png/se-viasatsport.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=se-viasatsport&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "se-viasatsport",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "se-viasatsport-premium",
+          "image": "https://api.rentm3u8.com/images/png/se-viasatsport-premium.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=se-viasatsport-premium&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "se-viasatsport-premium",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "tr-trtspor",
+          "image": "https://api.rentm3u8.com/images/png/tr-trtspor.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=tr-trtspor&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "tr-trtspor",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-btsport1hd",
+          "image": "https://api.rentm3u8.com/images/png/uk-btsport1hd.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-btsport1hd&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-btsport1hd",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-btsport1hdbkp",
+          "image": "https://api.rentm3u8.com/images/png/uk-btsport1hdbkp.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-btsport1hdbkp&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-btsport1hdbkp",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-btsport2hd",
+          "image": "https://api.rentm3u8.com/images/png/uk-btsport2hd.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-btsport2hd&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-btsport2hd",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-btsport2hdbkp",
+          "image": "https://api.rentm3u8.com/images/png/uk-btsport2hdbkp.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-btsport2hdbkp&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-btsport2hdbkp",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-btsport3hd",
+          "image": "https://api.rentm3u8.com/images/png/uk-btsport3hd.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-btsport3hd&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-btsport3hd",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-btsport3hdbkp",
+          "image": "https://api.rentm3u8.com/images/png/uk-btsport3hdbkp.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-btsport3hdbkp&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-btsport3hdbkp",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-dazn01",
+          "image": "https://api.rentm3u8.com/images/png/uk-dazn01.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-dazn01&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-dazn01",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-espn",
+          "image": "https://api.rentm3u8.com/images/png/uk-espn.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-espn&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-espn",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-premiersports",
+          "image": "https://api.rentm3u8.com/images/png/uk-premiersports.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-premiersports&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-premiersports",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-premiersports2",
+          "image": "https://api.rentm3u8.com/images/png/uk-premiersports2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-premiersports2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-premiersports2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skyboxoffice",
+          "image": "https://api.rentm3u8.com/images/png/uk-skyboxoffice.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skyboxoffice&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skyboxoffice",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skysports-action",
+          "image": "https://api.rentm3u8.com/images/png/uk-skysports-action.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skysports-action&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skysports-action",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skysports-arena",
+          "image": "https://api.rentm3u8.com/images/png/uk-skysports-arena.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skysports-arena&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skysports-arena",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skysports-cricket",
+          "image": "https://api.rentm3u8.com/images/png/uk-skysports-cricket.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skysports-cricket&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skysports-cricket",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skysports-epl",
+          "image": "https://api.rentm3u8.com/images/png/uk-skysports-epl.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skysports-epl&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skysports-epl",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skysports-f1",
+          "image": "https://api.rentm3u8.com/images/png/uk-skysports-f1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skysports-f1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skysports-f1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skysports-football",
+          "image": "https://api.rentm3u8.com/images/png/uk-skysports-football.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skysports-football&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skysports-football",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skysports-golf",
+          "image": "https://api.rentm3u8.com/images/png/uk-skysports-golf.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skysports-golf&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skysports-golf",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skysports-mainevent",
+          "image": "https://api.rentm3u8.com/images/png/uk-skysports-mainevent.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skysports-mainevent&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skysports-mainevent",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skysports-mix",
+          "image": "https://api.rentm3u8.com/images/png/uk-skysports-mix.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skysports-mix&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skysports-mix",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skysports-news",
+          "image": "https://api.rentm3u8.com/images/png/uk-skysports-news.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skysports-news&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skysports-news",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skysports-plus",
+          "image": "https://api.rentm3u8.com/images/png/uk-skysports-plus.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skysports-plus&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skysports-plus",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skysports1bkp",
+          "image": "https://api.rentm3u8.com/images/png/uk-skysports1bkp.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skysports1bkp&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skysports1bkp",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skysports2bkp",
+          "image": "https://api.rentm3u8.com/images/png/uk-skysports2bkp.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skysports2bkp&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skysports2bkp",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skysports3bkp",
+          "image": "https://api.rentm3u8.com/images/png/uk-skysports3bkp.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skysports3bkp&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skysports3bkp",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skysports4bkp",
+          "image": "https://api.rentm3u8.com/images/png/uk-skysports4bkp.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skysports4bkp&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skysports4bkp",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skysports5bkp",
+          "image": "https://api.rentm3u8.com/images/png/uk-skysports5bkp.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skysports5bkp&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skysports5bkp",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-skysportsf1bkp",
+          "image": "https://api.rentm3u8.com/images/png/uk-skysportsf1bkp.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-skysportsf1bkp&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-skysportsf1bkp",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "uk-tnt-boxoffice",
+          "image": "https://api.rentm3u8.com/images/png/uk-tnt-boxoffice.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=uk-tnt-boxoffice&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "uk-tnt-boxoffice",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-bein",
+          "image": "https://api.rentm3u8.com/images/png/us-bein.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-bein&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-bein",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-big10",
+          "image": "https://api.rentm3u8.com/images/png/us-big10.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-big10&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-big10",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-cbssn",
+          "image": "https://api.rentm3u8.com/images/png/us-cbssn.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-cbssn&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-cbssn",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-dazn01",
+          "image": "https://api.rentm3u8.com/images/png/us-dazn01.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-dazn01&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-dazn01",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-espn1",
+          "image": "https://api.rentm3u8.com/images/png/us-espn1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-espn1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-espn1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-espn2",
+          "image": "https://api.rentm3u8.com/images/png/us-espn2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-espn2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-espn2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-espn3",
+          "image": "https://api.rentm3u8.com/images/png/us-espn3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-espn3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-espn3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-foxsports1",
+          "image": "https://api.rentm3u8.com/images/png/us-foxsports1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-foxsports1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-foxsports1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-foxsports2",
+          "image": "https://api.rentm3u8.com/images/png/us-foxsports2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-foxsports2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-foxsports2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-fubo",
+          "image": "https://api.rentm3u8.com/images/png/us-fubo.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-fubo&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-fubo",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-mlb",
+          "image": "https://api.rentm3u8.com/images/png/us-mlb.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-mlb&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-mlb",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-nba",
+          "image": "https://api.rentm3u8.com/images/png/us-nba.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-nba&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-nba",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-nbcgolf",
+          "image": "https://api.rentm3u8.com/images/png/us-nbcgolf.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-nbcgolf&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-nbcgolf",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-nbcsport-bayarea",
+          "image": "https://api.rentm3u8.com/images/png/us-nbcsport-bayarea.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-nbcsport-bayarea&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-nbcsport-bayarea",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-nbcsport-boston",
+          "image": "https://api.rentm3u8.com/images/png/us-nbcsport-boston.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-nbcsport-boston&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-nbcsport-boston",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-nbcsport-chicago",
+          "image": "https://api.rentm3u8.com/images/png/us-nbcsport-chicago.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-nbcsport-chicago&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-nbcsport-chicago",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-nbcsports",
+          "image": "https://api.rentm3u8.com/images/png/us-nbcsports.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-nbcsports&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-nbcsports",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-nfl",
+          "image": "https://api.rentm3u8.com/images/png/us-nfl.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-nfl&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-nfl",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-nhl",
+          "image": "https://api.rentm3u8.com/images/png/us-nhl.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-nhl&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-nhl",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-willowcrickethd",
+          "image": "https://api.rentm3u8.com/images/png/us-willowcrickethd.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-willowcrickethd&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-willowcrickethd",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "us-wwe",
+          "image": "https://api.rentm3u8.com/images/png/us-wwe.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=us-wwe&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "us-wwe",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-vnl1",
+          "image": "https://api.rentm3u8.com/images/png/hd-vnl1.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-vnl1&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-vnl1",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-vnl2",
+          "image": "https://api.rentm3u8.com/images/png/hd-vnl2.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-vnl2&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-vnl2",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "hd-vnl3",
+          "image": "https://api.rentm3u8.com/images/png/hd-vnl3.png",
+          "url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=hd-vnl3&api_key=MIcWPyCpm6maZGJQ",
+          "referer": "https://dooball66k.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "info": "hd-vnl3",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        }
+      ]
+    }
+  ]
+}
