@@ -1,35 +1,42 @@
-#EXTM3U url=https://raw.githubusercontent.com/cattviptv2605/iptv/main/cattv.m3u
+#EXTM3U https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/sport.m3u
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="ช่องกีฬาไทย",MONOMAX1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="ช่อง MONOMAX",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://footballsod.live
-https://nongakka.github.io/iptv/m3u8/monomax/195max1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="ช่องกีฬาไทย",MONOMAX1
+https://nongakka.github.io/iptv/m3u8/monomax/31-220-3-monomax-1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="ช่อง MONOMAX",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://raw.githubusercontent.com/nongakka/iptv/refs/heads/main/m3u8/monomax/195max2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="ช่องกีฬาไทย",MONOMAX1
+https://nongakka.github.io/iptv/m3u8/monomax/23232Monomax1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="ช่อง MONOMAX",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live3.inwstream.com/
-https://live3.inwstream.com/transcoder_F1/aismonomaxsports1_inwiptv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="ช่องกีฬาไทย",MONOMAX1
+https://nongakka.github.io/iptv/m3u8/monomax/ch-4kMomax1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="ช่อง MONOMAX",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="ช่องกีฬาไทย",MONOMAX1
+https://nongakka.github.io/iptv/m3u8/monomax/fastopen-monomax-1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="ช่อง MONOMAX",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/monomax1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg" group-title="ช่องกีฬาไทย",MONOMAX2
+https://nongakka.github.io/iptv/m3u8/monomax/v3tvmax1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg" group-title="ช่อง MONOMAX",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg" group-title="ช่องกีฬาไทย",MONOMAX2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg" group-title="ช่อง MONOMAX",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live3.inwstream.com/
 https://live3.inwstream.com/transcoder_F1/aismonomaxsports2_inwiptv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg" group-title="ช่องกีฬาไทย",MONOMAX2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg" group-title="ช่อง MONOMAX",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX2.m3u8
