@@ -26,6 +26,11 @@ https://nongakka.github.io/iptv/m3u8/monomax/fastopen-monomax-1.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://nongakka.github.io/iptv/m3u8/monomax/v3tvmax1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://nongakka.github.io/iptv/m3u8/logo/monomax1.png" group-title="ช่อง MONOMAX",MONOMAX1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://nongakka.github.io/iptv/m3u8/monomax/line.protv-max1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://nongakka.github.io/iptv/m3u8/logo/monomax2.png" group-title="ช่อง MONOMAX",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -51,6 +56,11 @@ https://nongakka.github.io/iptv/m3u8/monomax/fastopen-monomax-2.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://nongakka.github.io/iptv/m3u8/monomax/v3tvmax2.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://nongakka.github.io/iptv/m3u8/logo/monomax2.png" group-title="ช่อง MONOMAX",MONOMAX2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://nongakka.github.io/iptv/m3u8/monomax/line.protv-max2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://nongakka.github.io/iptv/m3u8/logo/monomax3.png" group-title="ช่อง MONOMAX",MONOMAX3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -71,6 +81,11 @@ https://nongakka.github.io/iptv/m3u8/monomax/ch-4kMomax3.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://nongakka.github.io/iptv/m3u8/monomax/fastopen-monomax-3.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://nongakka.github.io/iptv/m3u8/logo/monomax3.png" group-title="ช่อง MONOMAX",MONOMAX3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://nongakka.github.io/iptv/m3u8/monomax/line.protv-max3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://nongakka.github.io/iptv/m3u8/logo/monomax4.png" group-title="ช่อง MONOMAX",MONOMAX4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -90,6 +105,11 @@ https://nongakka.github.io/iptv/m3u8/monomax/ch-4kMomax4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 https://nongakka.github.io/iptv/m3u8/monomax/fastopen-monomax-4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://nongakka.github.io/iptv/m3u8/logo/monomax4.png" group-title="ช่อง MONOMAX",MONOMAX4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://nongakka.github.io/iptv/m3u8/monomax/line.protv-max4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://nongakka.github.io/iptv/m3u8/logo/monomax5.png" group-title="ช่อง MONOMAX",MONOMAX5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
